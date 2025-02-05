@@ -117,7 +117,7 @@
       <workItem from="1737531359970" duration="2142000" />
       <workItem from="1737533533557" duration="20400000" />
       <workItem from="1738382291868" duration="8034000" />
-      <workItem from="1738589137107" duration="6952000" />
+      <workItem from="1738589137107" duration="10470000" />
     </task>
     <servers />
   </component>
@@ -133,6 +133,7 @@
     <watches-manager>
       <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
         <watch expression="IMU" />
+        <watch expression="pre_ret" />
       </configuration>
     </watches-manager>
   </component>
