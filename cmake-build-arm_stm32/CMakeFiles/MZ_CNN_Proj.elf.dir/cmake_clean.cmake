@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj.d"
   "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.obj"
   "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.obj.d"
+  "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj"
+  "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj.d"
   "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj"
   "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj.d"
   "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_IMU_Driver/MPU6050.c.obj"

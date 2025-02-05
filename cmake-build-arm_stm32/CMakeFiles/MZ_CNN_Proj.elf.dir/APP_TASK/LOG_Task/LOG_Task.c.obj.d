@@ -1,5 +1,6 @@
-CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: \
- D:\mz_v1\MZ_CNN_Proj\Core\Src\main.c \
+CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj: \
+ D:\mz_v1\MZ_CNN_Proj\APP_TASK\LOG_Task\LOG_Task.c \
+ D:\mz_v1\MZ_CNN_Proj\APP_TASK\LOG_Task\LOG_Task.h \
  D:\mz_v1\MZ_CNN_Proj\Core\Inc/main.h \
  D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal.h \
  D:\mz_v1\MZ_CNN_Proj\Core\Inc/stm32f1xx_hal_conf.h \
@@ -68,59 +69,4 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: \
  d:\clion\gnu\arm-none-eabi\include\stdlib.h \
  d:\clion\gnu\arm-none-eabi\include\machine\stdlib.h \
  d:\clion\gnu\arm-none-eabi\include\alloca.h \
- D:\mz_v1\MZ_CNN_Proj\Core\Inc/spi.h D:\mz_v1\MZ_CNN_Proj\Core\Inc/main.h \
- D:\mz_v1\MZ_CNN_Proj\Core\Inc/usart.h \
- D:\mz_v1\MZ_CNN_Proj\USB_DEVICE\App/usb_device.h \
- D:\mz_v1\MZ_CNN_Proj\Middlewares\ST\STM32_USB_Device_Library\Core\Inc/usbd_def.h \
- D:\mz_v1\MZ_CNN_Proj\USB_DEVICE\Target/usbd_conf.h \
- d:\clion\gnu\arm-none-eabi\include\string.h \
- d:\clion\gnu\arm-none-eabi\include\strings.h \
- d:\clion\gnu\arm-none-eabi\include\sys\string.h \
- D:\mz_v1\MZ_CNN_Proj\Core\Inc/gpio.h \
- D:\mz_v1\MZ_CNN_Proj\APP_TASK\IMU_Task/IMU_Task.h \
- D:\mz_v1\MZ_CNN_Proj\Core\Inc/config.h \
- D:\mz_v1\MZ_CNN_Proj\APP_TASK\LED_Task/LED_Task.h \
- D:\mz_v1\MZ_CNN_Proj\APP_TASK\BUTTON_Task/BUTTON_Task.h \
- D:\mz_v1\MZ_CNN_Proj\APP_TASK\CNN_Task/CNN_Task.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom.h \
- d:\clion\gnu\arm-none-eabi\include\math.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\port/nnom_port.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom_tensor.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom_layers.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_activation.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom_layers.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom_local.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom_tensor.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_concat.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_conv2d.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_cropping.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_zero_padding.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_conv2d_trans.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_conv2d.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_dense.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_dw_conv2d.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_flatten.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_reshape.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_global_pool.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_maxpool.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_input.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_lambda.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_input.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_matrix.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_maxpool.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_avgpool.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_output.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_rnn.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_softmax.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_sumpool.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_upsample.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_zero_padding.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_simple_cell.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_rnn.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_activation.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_lstm_cell.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/layers/nnom_gru_cell.h \
- D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\inc/nnom_utils.h \
- D:\mz_v1\MZ_CNN_Proj\Middlewares\VOFA/vofa.h \
- D:\mz_v1\MZ_CNN_Proj\APP_TASK\LOG_Task/LOG_Task.h
+ D:\mz_v1\MZ_CNN_Proj\Core\Inc/version_git.h

@@ -329,6 +329,77 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.obj: D:/mz_v1/MZ_CNN
   D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
   D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
 
+CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj: D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.c \
+  D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.h \
+  D:/mz_v1/MZ_CNN_Proj/Core/Inc/main.h \
+  D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_hal_conf.h \
+  D:/mz_v1/MZ_CNN_Proj/Core/Inc/version_git.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_gcc.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_version.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm3.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
+  D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/time.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/time.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
 CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj: D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c \
   D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/main.h \
@@ -690,6 +761,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Sr
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task/CNN_Task.h \
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task/IMU_Task.h \
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.h \
+  D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/config.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/gpio.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/main.h \
@@ -5217,6 +5289,16 @@ D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.h:
 
 D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.h:
 
+D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.c:
+
+D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.h:
+
+D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_simple_cell.c:
+
+D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_it.c:
+
+D:/mz_v1/MZ_CNN_Proj/Core/Inc/version_git.h:
+
 D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c:
 
 D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver/MPU6050.c:
@@ -5242,10 +5324,6 @@ D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target/usbd_conf.h:
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Src/spi.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_simple_cell.c:
-
-D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_it.c:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Src/syscalls.c:
 

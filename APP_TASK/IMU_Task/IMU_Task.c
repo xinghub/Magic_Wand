@@ -187,8 +187,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
     static uint8_t i = 0;
     if (GPIO_Pin == GPIO_PIN_5)
     {
-//        mpu_dmp_get_data(&Pitch, &Roll, &Yaw);				//角度
-//        MPU_Get_Gyroscope(&gyrox,&gyroy,&gyroz);			//角速度
+
         IMU_Get_Data(i);
         i++;
         if (i >= IMU_SEQUENCE_LENGTH_MAX)

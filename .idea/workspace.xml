@@ -11,6 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
+      <config projectName="MZ_CNN_Proj" targetName="stm32f103xb_pre_build" />
       <config projectName="MZ_CNN_Proj" targetName="MZ_CNN_Proj.elf" />
     </generated>
   </component>
@@ -20,7 +21,43 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619e2930-70a6-4bf2-9ba4-b542574e3904" name="更改" comment="" />
+    <list default="true" id="619e2930-70a6-4bf2-9ba4-b542574e3904" name="更改" comment="修正">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middlewares/LOG/log.c" beforeDir="false" afterPath="$PROJECT_DIR$/Middlewares/LOG/log.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middlewares/LOG/log.h" beforeDir="false" afterPath="$PROJECT_DIR$/Middlewares/LOG/log.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/pre_build_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/pre_build_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/version_git.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/.cmake/api/v1/reply/codemodel-v2-8c566f0cefcf80335a28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/.cmake/api/v1/reply/index-2025-02-04T16-07-25-0098.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/.cmake/api/v1/reply/target-MZ_CNN_Proj.elf-Debug-1d388f8ed1929d4ddc02.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/BUTTON_Task/BUTTON_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/BUTTON_Task/BUTTON_Task.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/Makefile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +67,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:ARM_STM32" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
@@ -43,25 +83,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;OpenOCD 下载并运行.OCD MZ_CNN_Proj.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OpenOCD 下载并运行.OCD MZ_CNN_Proj.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\mz_v1\MZ_CNN_Proj\Middlewares\AHRS" />
@@ -70,14 +111,22 @@
       <recent name="D:\mz_v1\MZ_CNN_Proj\BSP\LED_DEVICE" />
       <recent name="D:\mz_v1\MZ_CNN_Proj\BSP\W25Q64_DEVICE" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mz_v1\MZ_CNN_Proj\APP_TASK\LOG_Task" />
+    </key>
   </component>
   <component name="RunManager" selected="OpenOCD 下载并运行.OCD MZ_CNN_Proj">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="MZ_CNN_Proj.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MZ_CNN_Proj" TARGET_NAME="MZ_CNN_Proj.elf" CONFIG_NAME="ARM_STM32" RUN_TARGET_PROJECT_NAME="MZ_CNN_Proj" RUN_TARGET_NAME="MZ_CNN_Proj.elf">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MZ_CNN_Proj.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MZ_CNN_Proj" TARGET_NAME="MZ_CNN_Proj.elf" CONFIG_NAME="ARM_STM32" RUN_TARGET_PROJECT_NAME="MZ_CNN_Proj" RUN_TARGET_NAME="MZ_CNN_Proj.elf">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stm32f103xb_pre_build" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MZ_CNN_Proj" TARGET_NAME="stm32f103xb_pre_build" CONFIG_NAME="ARM_STM32">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -92,6 +141,7 @@
     </configuration>
     <list>
       <item itemvalue="CMake 应用程序.MZ_CNN_Proj.elf" />
+      <item itemvalue="CMake 应用程序.stm32f103xb_pre_build" />
       <item itemvalue="OpenOCD 下载并运行.OCD MZ_CNN_Proj" />
     </list>
   </component>
@@ -128,6 +178,47 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1345d65a-2ae5-440a-b024-2be787a12dc8" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1345d65a-2ae5-440a-b024-2be787a12dc8">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

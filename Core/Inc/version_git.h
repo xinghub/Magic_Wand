@@ -3,7 +3,7 @@
  * @file    version_git.h
  * @brief   GIT version info
  *
- * DAPLink Interface Firmware
+ * Maigc_Wand Interface Firmware
  * Copyright (c) 2009-2016, ARM Limited, All Rights Reserved
  * SPDX-License-Identifier: Apache-2.0
  *
@@ -22,8 +22,8 @@
 #ifndef VERSION_GIT_H
 #define VERSION_GIT_H
 
-#define GIT_DESCRIPTION  "acf85af"
-#define GIT_COMMIT_SHA  "acf85afb7df157f5c71b03e022a383309a875c10"
+#define GIT_DESCRIPTION  "c04d550"
+#define GIT_COMMIT_SHA  "c04d550425658883036276c29090a064adb0d931"
 #define GIT_LOCAL_MODS  1
 
 #endif

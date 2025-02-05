@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b717ab2f08de493f7a38b82d921ea36f CMakeFiles/stm32f103xb_pre_build

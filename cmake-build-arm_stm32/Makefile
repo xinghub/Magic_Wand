@@ -128,6 +128,19 @@ MZ_CNN_Proj.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/build
 .PHONY : MZ_CNN_Proj.elf/fast
 
+#=============================================================================
+# Target rules for targets named stm32f103xb_pre_build
+
+# Build rule for target.
+stm32f103xb_pre_build: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 stm32f103xb_pre_build
+.PHONY : stm32f103xb_pre_build
+
+# fast build rule for target.
+stm32f103xb_pre_build/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32f103xb_pre_build.dir\build.make CMakeFiles/stm32f103xb_pre_build.dir/build
+.PHONY : stm32f103xb_pre_build/fast
+
 APP_TASK/BUTTON_Task/BUTTON_Task.obj: APP_TASK/BUTTON_Task/BUTTON_Task.c.obj
 .PHONY : APP_TASK/BUTTON_Task/BUTTON_Task.obj
 
@@ -223,6 +236,30 @@ APP_TASK/LED_Task/LED_Task.s: APP_TASK/LED_Task/LED_Task.c.s
 APP_TASK/LED_Task/LED_Task.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.s
 .PHONY : APP_TASK/LED_Task/LED_Task.c.s
+
+APP_TASK/LOG_Task/LOG_Task.obj: APP_TASK/LOG_Task/LOG_Task.c.obj
+.PHONY : APP_TASK/LOG_Task/LOG_Task.obj
+
+# target to build an object file
+APP_TASK/LOG_Task/LOG_Task.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj
+.PHONY : APP_TASK/LOG_Task/LOG_Task.c.obj
+
+APP_TASK/LOG_Task/LOG_Task.i: APP_TASK/LOG_Task/LOG_Task.c.i
+.PHONY : APP_TASK/LOG_Task/LOG_Task.i
+
+# target to preprocess a source file
+APP_TASK/LOG_Task/LOG_Task.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.i
+.PHONY : APP_TASK/LOG_Task/LOG_Task.c.i
+
+APP_TASK/LOG_Task/LOG_Task.s: APP_TASK/LOG_Task/LOG_Task.c.s
+.PHONY : APP_TASK/LOG_Task/LOG_Task.s
+
+# target to generate assembly for a file
+APP_TASK/LOG_Task/LOG_Task.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.s
+.PHONY : APP_TASK/LOG_Task/LOG_Task.c.s
 
 BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.obj: BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj
 .PHONY : BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.obj
@@ -2016,6 +2053,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... stm32f103xb_pre_build
 	@echo ... MZ_CNN_Proj.elf
 	@echo ... APP_TASK/BUTTON_Task/BUTTON_Task.obj
 	@echo ... APP_TASK/BUTTON_Task/BUTTON_Task.i
@@ -2029,6 +2067,9 @@ help:
 	@echo ... APP_TASK/LED_Task/LED_Task.obj
 	@echo ... APP_TASK/LED_Task/LED_Task.i
 	@echo ... APP_TASK/LED_Task/LED_Task.s
+	@echo ... APP_TASK/LOG_Task/LOG_Task.obj
+	@echo ... APP_TASK/LOG_Task/LOG_Task.i
+	@echo ... APP_TASK/LOG_Task/LOG_Task.s
 	@echo ... BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.obj
 	@echo ... BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.i
 	@echo ... BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.s

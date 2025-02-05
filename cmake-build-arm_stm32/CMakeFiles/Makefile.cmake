@@ -46,4 +46,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/MZ_CNN_Proj.elf.dir/DependInfo.cmake"
+  "CMakeFiles/stm32f103xb_pre_build.dir/DependInfo.cmake"
   )

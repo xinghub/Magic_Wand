@@ -1,3 +1,4 @@
 D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir
+D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/CMakeFiles/stm32f103xb_pre_build.dir
 D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/CMakeFiles/edit_cache.dir
 D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/CMakeFiles/rebuild_cache.dir

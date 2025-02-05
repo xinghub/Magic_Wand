@@ -50,6 +50,7 @@
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/servant"/>
 					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
@@ -98,6 +99,7 @@
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/servant"/>
 					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
@@ -108,6 +110,16 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 MZ_CNN_Proj.elf/fast"/>
+					<CompileFile command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stm32f103xb_pre_build">
+				<Option working_dir="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 stm32f103xb_pre_build"/>
 					<CompileFile command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
@@ -158,6 +170,12 @@
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.h">
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c">
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
@@ -201,6 +219,9 @@
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/usart.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/version_git.h">
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/IIC.c">

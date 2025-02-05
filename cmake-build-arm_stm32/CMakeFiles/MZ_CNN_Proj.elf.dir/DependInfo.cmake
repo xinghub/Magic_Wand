@@ -44,6 +44,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task"
   "D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task"
   "D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task"
+  "D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task"
   "D:/mz_v1/MZ_CNN_Proj/servant"
   )
 
@@ -53,6 +54,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task/CNN_Task.c" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj" "gcc" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj.d"
   "D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task/IMU_Task.c" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj" "gcc" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj.d"
   "D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.c" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.obj" "gcc" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LED_Task/LED_Task.c.obj.d"
+  "D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.c" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj" "gcc" "CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj.d"
   "D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c" "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj" "gcc" "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj.d"
   "D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver/MPU6050.c" "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_IMU_Driver/MPU6050.c.obj" "gcc" "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_IMU_Driver/MPU6050.c.obj.d"
   "D:/mz_v1/MZ_CNN_Proj/BSP/BSP_LED_Driver/BSP_LED_Driver.c" "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.obj" "gcc" "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.obj.d"

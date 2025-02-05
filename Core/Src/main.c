@@ -30,7 +30,7 @@
 #include "BUTTON_Task.h"
 #include "CNN_Task.h"
 #include "vofa.h"
-/* USER CODE END Includes */
+#include "LOG_Task.h"/* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */

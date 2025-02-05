@@ -30,7 +30,7 @@ VERSION_GIT_FILE_TEMPLATE = """
  * @file    version_git.h
  * @brief   GIT version info
  *
- * DAPLink Interface Firmware
+ * Maigc_Wand Interface Firmware
  * Copyright (c) 2009-2016, ARM Limited, All Rights Reserved
  * SPDX-License-Identifier: Apache-2.0
  *
@@ -112,6 +112,6 @@ def generate_version_file(version_git_dir):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='git version generator')
-    parser.add_argument("--version_git_dir", type=str, default='D:\mz_v1\MZ_CNN_Proj\Tools', help="directory to output version_git.h file")
+    parser.add_argument("--version_git_dir", type=str, default='D:\mz_v1\MZ_CNN_Proj\Core\Inc', help="directory to output version_git.h file")
     args = parser.parse_args()
     exit(generate_version_file(args.version_git_dir))

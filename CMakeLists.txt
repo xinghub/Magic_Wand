@@ -71,6 +71,7 @@ include_directories(Core/Inc
         APP_TASK/BUTTON_Task
         APP_TASK/CNN_Task
         APP_TASK/IMU_Task
+        APP_TASK/LOG_Task
 )
 include_directories(servant)
 add_definitions(-DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB)
@@ -103,3 +104,13 @@ add_custom_command(TARGET ${PROJECT_NAME}.elf POST_BUILD
         COMMAND ${CMAKE_OBJCOPY} -Obinary $<TARGET_FILE:${PROJECT_NAME}.elf> ${BIN_FILE}
         COMMENT "Building ${HEX_FILE}
 Building ${BIN_FILE}")
+
+#add_custom_target(stm32f103xb_pre_build
+#        COMMAND D:/mz_v1/MZ_CNN_Proj/Tools/pre_build_script.py
+#        WORKING_DIRECTORY ${BUILD_DIR})
+add_custom_target(stm32f103xb_pre_build
+        COMMAND python ${CMAKE_SOURCE_DIR}/Tools/pre_build_script.py
+        WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
+)
+add_dependencies(MZ_CNN_Proj.elf stm32f103xb_pre_build)
+
