@@ -1,0 +1,1 @@
+D:\CLion\gnu\bin\arm-none-eabi-gcc.exe -g -Wl,-gc-sections,--print-memory-usage,-Map=D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/MZ_CNN_Proj.map -mcpu=cortex-m3 -mthumb -mthumb-interwork -T D:/mz_v1/MZ_CNN_Proj/STM32F103CBTX_FLASH.ld -Wl,-u_printf_float --specs=nano.specs @CMakeFiles\MZ_CNN_Proj.elf.dir\objects1.rsp -o MZ_CNN_Proj.elf 

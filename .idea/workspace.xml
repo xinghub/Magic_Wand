@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="MZ_CNN_Proj" targetName="MZ_CNN_Proj.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="ARM_STM32" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="ARM_STM32" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="619e2930-70a6-4bf2-9ba4-b542574e3904" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:ARM_STM32" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rc0tcbsTJ6Q1pTD9U55LppQZZK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;OpenOCD 下载并运行.OCD MZ_CNN_Proj.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mz_v1\MZ_CNN_Proj\Middlewares\AHRS" />
+      <recent name="D:\mz_v1\MZ_CNN_Proj\Core\Inc" />
+      <recent name="D:\mz_v1\MZ_CNN_Proj\BSP\BUTTON_DEVICE" />
+      <recent name="D:\mz_v1\MZ_CNN_Proj\BSP\LED_DEVICE" />
+      <recent name="D:\mz_v1\MZ_CNN_Proj\BSP\W25Q64_DEVICE" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD MZ_CNN_Proj">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MZ_CNN_Proj.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MZ_CNN_Proj" TARGET_NAME="MZ_CNN_Proj.elf" CONFIG_NAME="ARM_STM32" RUN_TARGET_PROJECT_NAME="MZ_CNN_Proj" RUN_TARGET_NAME="MZ_CNN_Proj.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD MZ_CNN_Proj" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MZ_CNN_Proj" TARGET_NAME="MZ_CNN_Proj.elf" CONFIG_NAME="ARM_STM32" version="1" RUN_PATH="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\mz_v1\MZ_CNN_Proj\stm32f103c8_blue_pill.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.MZ_CNN_Proj.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD MZ_CNN_Proj" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="619e2930-70a6-4bf2-9ba4-b542574e3904" name="更改" comment="" />
+      <created>1736843271614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736843271614</updated>
+      <workItem from="1736843298906" duration="92518000" />
+      <workItem from="1737514671378" duration="747000" />
+      <workItem from="1737527614941" duration="145000" />
+      <workItem from="1737528157120" duration="547000" />
+      <workItem from="1737528714995" duration="97000" />
+      <workItem from="1737528827718" duration="482000" />
+      <workItem from="1737529314386" duration="52000" />
+      <workItem from="1737529374968" duration="114000" />
+      <workItem from="1737529491308" duration="25000" />
+      <workItem from="1737529517589" duration="57000" />
+      <workItem from="1737529583175" duration="1752000" />
+      <workItem from="1737531359970" duration="2142000" />
+      <workItem from="1737533533557" duration="20400000" />
+      <workItem from="1738382291868" duration="8034000" />
+      <workItem from="1738589137107" duration="6952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="IMU" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MZ_CNN_Proj"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MZ_CNN_Proj.elf">
+				<Option output="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/MZ_CNN_Proj.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Core/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_LED_Driver"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/servant"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/include"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/include-fixed"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 MZ_CNN_Proj.elf"/>
+					<CompileFile command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MZ_CNN_Proj.elf/fast">
+				<Option output="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/MZ_CNN_Proj.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Core/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_LED_Driver"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/servant"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/include"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/include-fixed"/>
+					<Add directory="d:\clion\gnu\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 MZ_CNN_Proj.elf/fast"/>
+					<CompileFile command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion/GW/bin/mingw32-make.exe -f &quot;D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task/BUTTON_Task.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task/BUTTON_Task.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task/CNN_Task.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task/CNN_Task.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task/IMU_Task.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task/IMU_Task.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver/MPU6050.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver/MPU6050.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver/MPU6050_Reg.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_LED_Driver/BSP_LED_Driver.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_LED_Driver/BSP_LED_Driver.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/IIC.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/config.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/gpio.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/main.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/spi.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_hal_conf.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_it.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/usart.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/IIC.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/gpio.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/main.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/spi.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_hal_msp.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_it.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/syscalls.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/sysmem.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/system_stm32f1xx.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Src/usart.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Startup/startup_stm32f103cbtx.s">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_armclang.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_compiler.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_iccarm.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/cmsis_version.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_armv8mbl.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_armv8mml.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm1.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm23.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm33.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/mpu_armv7.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/mpu_armv8.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Include/tz_context.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/LICENSE.txt">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS/MahonyAHRS.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS/MahonyAHRS.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/dmpKey.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/dmpmap.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc/usbd_hid.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_baselayer.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/weights.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local_q15.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_layers.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_tensor.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_utils.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_activation.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_avgpool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_baselayer.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_concat.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d_trans.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_cropping.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dense.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dw_conv2d.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_flatten.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_global_pool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_gru_cell.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_input.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lambda.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lstm_cell.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_matrix.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_maxpool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_output.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_reshape.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_rnn.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_simple_cell.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_softmax.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_sumpool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_upsample.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_zero_padding.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/STM32F103CBTx_FLASH.ld">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usb_device.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usb_device.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usbd_desc.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usbd_desc.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target/usbd_conf.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target/usbd_conf.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
