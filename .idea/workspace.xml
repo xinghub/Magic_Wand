@@ -23,9 +23,17 @@
   <component name="ChangeListManager">
     <list default="true" id="619e2930-70a6-4bf2-9ba4-b542574e3904" name="更改" comment="修正">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_TASK/BUTTON_Task/BUTTON_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/BUTTON_Task/BUTTON_Task.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_TASK/CNN_Task/CNN_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/CNN_Task/CNN_Task.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.h" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_TASK/LED_Task/LED_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/LED_Task/LED_Task.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APP_TASK/LOG_Task/LOG_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/LOG_Task/LOG_Task.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core/Inc/version_git.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/version_git.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" afterDir="false" />
@@ -139,7 +147,7 @@
       <workItem from="1737533533557" duration="20400000" />
       <workItem from="1738382291868" duration="8034000" />
       <workItem from="1738589137107" duration="10470000" />
-      <workItem from="1738826647457" duration="1617000" />
+      <workItem from="1738826647457" duration="12511000" />
     </task>
     <servers />
   </component>

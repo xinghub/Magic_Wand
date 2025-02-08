@@ -114,9 +114,6 @@ void LED_Create(LED_t **led)
         log_info("Led_Handle malloc failed %d\r\n", sizeof(LED_t));
         return;
     }
-    else{
-        log_info("Led_Handle malloc succeed\r\n");
-    }
 
     (*led)->attribute.status = OFF;
 
@@ -124,4 +121,7 @@ void LED_Create(LED_t **led)
     (*led)->function.Led_ON = LED_ON;
     (*led)->function.Led_OFF = LED_OFF;
     (*led)->function.BLINK = Blink;
+
+    log_info("Led_Handle malloc succeed\r\n");
+    (*led)->function.Init();
 }

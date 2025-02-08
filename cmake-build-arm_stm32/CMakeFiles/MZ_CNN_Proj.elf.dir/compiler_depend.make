@@ -230,10 +230,13 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj: D:/mz_v1/MZ_CNN
   D:/CLion/gnu/arm-none-eabi/include/machine/time.h \
   D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
   D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/memory.h \
   D:/CLion/gnu/arm-none-eabi/include/newlib.h \
   D:/CLion/gnu/arm-none-eabi/include/stdint.h \
   D:/CLion/gnu/arm-none-eabi/include/stdio.h \
   D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
   D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
   D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
   D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
@@ -250,6 +253,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj: D:/mz_v1/MZ_CNN
   D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
   D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
   D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
   D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
   D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
   D:/CLion/gnu/arm-none-eabi/include/time.h \
@@ -5286,6 +5290,8 @@ D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu.h:
 D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.h:
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.h:
+
+D:/CLion/gnu/arm-none-eabi/include/memory.h:
 
 D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.h:
 

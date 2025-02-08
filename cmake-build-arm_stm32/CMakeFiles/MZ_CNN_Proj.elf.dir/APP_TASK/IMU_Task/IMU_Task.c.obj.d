@@ -15,6 +15,11 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj: \
  d:\clion\gnu\arm-none-eabi\include\sys\lock.h \
  d:\clion\gnu\arm-none-eabi\include\sys\cdefs.h \
  d:\clion\gnu\arm-none-eabi\include\_ansi.h \
+ d:\clion\gnu\arm-none-eabi\include\memory.h \
+ d:\clion\gnu\arm-none-eabi\include\string.h \
+ d:\clion\gnu\arm-none-eabi\include\sys\_locale.h \
+ d:\clion\gnu\arm-none-eabi\include\strings.h \
+ d:\clion\gnu\arm-none-eabi\include\sys\string.h \
  D:\mz_v1\MZ_CNN_Proj\APP_TASK\IMU_Task\IMU_Task.h \
  D:\mz_v1\MZ_CNN_Proj\Core\Inc/config.h \
  D:\mz_v1\MZ_CNN_Proj\Core\Inc/main.h \
@@ -67,7 +72,6 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/IMU_Task/IMU_Task.c.obj: \
  d:\clion\gnu\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
  d:\clion\gnu\arm-none-eabi\include\time.h \
  d:\clion\gnu\arm-none-eabi\include\machine\time.h \
- d:\clion\gnu\arm-none-eabi\include\sys\_locale.h \
  d:\clion\gnu\arm-none-eabi\include\stdlib.h \
  d:\clion\gnu\arm-none-eabi\include\machine\stdlib.h \
  d:\clion\gnu\arm-none-eabi\include\alloca.h \

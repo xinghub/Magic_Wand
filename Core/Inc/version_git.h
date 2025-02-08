@@ -22,8 +22,8 @@
 #ifndef VERSION_GIT_H
 #define VERSION_GIT_H
 
-#define GIT_DESCRIPTION  "c0d2b96"
-#define GIT_COMMIT_SHA  "c0d2b96e1f0fe5408b61d2c8e06e1335d63ec73c"
+#define GIT_DESCRIPTION  "e7e20c4"
+#define GIT_COMMIT_SHA  "e7e20c43f473af3d7483164c0c75c391c4106d69"
 #define GIT_LOCAL_MODS  1
 
 #endif

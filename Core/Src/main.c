@@ -95,7 +95,7 @@ int main(void)
   MX_USB_DEVICE_Init();
   MX_SPI2_Init();
   /* USER CODE BEGIN 2 */
-  IMU_Init();
+  IMU_create(&IMU_Handle);
   LED_Create(&Led_Handle);
   Button_Create(&Button_Handle);
   CNN_Create();
@@ -114,23 +114,23 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 
-        if(IMU.status == IMU_Idle) {
-            IMU.Sample_Start();
+        if(IMU_Handle->attribute.status == IMU_Idle) {
+            IMU_Handle->function.Sample_Start();
             //Led_Handle->function.BLINK(BLINK_5HZ);
             Led_Handle->function.Led_OFF();
-            while (IMU.status != IMU_Sampled);
+            while (IMU_Handle->attribute.status != IMU_Sampled);
 #ifdef SERIAL_DEBUG
             log_debug("IMU sampling\r\n");
 #endif
             Led_Handle->function.Led_ON();
 #ifdef SYSTEM_MODE_DATA_COLLECT
             HAL_Delay(200);  // 使用HAL库的延迟函数
-            IMU_Data_Print();
+            IMU_Handle->function.IMU_Data_Print();
 #endif
             model_get_output();
             //IMU_Data_Print();
         }
-        IMU.status = IMU_Idle;
+        IMU_Handle->attribute.status = IMU_Idle;
     }
   /* USER CODE END 3 */
 }

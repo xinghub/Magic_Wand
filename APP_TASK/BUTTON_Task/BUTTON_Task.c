@@ -30,14 +30,11 @@ void Button_Create(Button_t **pButton)
         log_info("Button_Handle malloc failed\r\n");
         return;
     }
-    else{
-        log_info("Button_Handle malloc succeed\r\n");
-    }
 
     (*pButton)->attribute.status = BUTTON_IDLE;
 
     //(*pButton)->function.Init = LED_Init;
-
+    log_info("Button_Handle malloc succeed\r\n");
 }
 /**
 * @CreateTime

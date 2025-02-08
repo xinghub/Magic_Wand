@@ -51,13 +51,23 @@ typedef enum IMU_GYRO_Index{
 typedef struct IMU_t
 {
     struct {
+        eIMU_STATUS status;
         float INS_Angle[3];
         float INS_Acc[3];
         float INS_Gyro[3];
+        float acc[IMU_SEQUENCE_LENGTH_MAX][3];
+        float gyro[IMU_SEQUENCE_LENGTH_MAX][3];
     }attribute;
 
     struct {
+        void (*IMU_Init)(void);
         void (*IMU_Get_Angle) (void);
+        void (*Sample_Start)(void);
+        void (*Sample_Stop)(void);
+#ifdef SYSTEM_MODE_DATA_COLLECT
+        void (*IMU_Data_Print)(void);
+#endif //SYSTEM_MODE_DATA_COLLECT
+
     }function;
     eIMU_STATUS status;
     void (*Sample_Start)(void);
@@ -66,12 +76,11 @@ typedef struct IMU_t
     float gyro[IMU_SEQUENCE_LENGTH_MAX][3];
 }IMU_t;
 
-#ifdef SYSTEM_MODE_DATA_COLLECT
-void IMU_Data_Print(void);
-#endif //SYSTEM_MODE_DATA_COLLECT
-void IMU_Get_Data(uint8_t index);
-void IMU_Init(void);
-void IMU_Data_Print();
-extern struct IMU_t IMU;
+//void IMU_Get_Data(uint8_t index);
+//void IMU_Init(void);
+//void IMU_Data_Print();
+//extern struct IMU_t IMU;
+extern IMU_t *IMU_Handle;
+void IMU_create(IMU_t **imu);
 
 #endif //MZ_CNN_PROJ_IMU_TASK_H

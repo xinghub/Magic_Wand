@@ -20,9 +20,9 @@ void model_feed_data(void)
     const double scale = QUANTIFICATION_SCALE;
     uint16_t i = 0;
     for(i = 0; i < IMU_SEQUENCE_LENGTH_MAX;i++){
-        nnom_input_data[i*3] = (int8_t)round(IMU.gyro[i][Roll] * scale);
-        nnom_input_data[i*3+1] = (int8_t)round(IMU.gyro[i][Pitch] * scale);
-        nnom_input_data[i*3+2] = (int8_t)round(IMU.gyro[i][Yaw] * scale);
+        nnom_input_data[i*3] = (int8_t)round(IMU_Handle->attribute.gyro[i][Roll] * scale);
+        nnom_input_data[i*3+1] = (int8_t)round(IMU_Handle->attribute.gyro[i][Pitch] * scale);
+        nnom_input_data[i*3+2] = (int8_t)round(IMU_Handle->attribute.gyro[i][Yaw] * scale);
     }
 }
 
