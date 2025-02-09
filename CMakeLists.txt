@@ -64,9 +64,10 @@ include_directories(Core/Inc
         Middlewares/IMU_DMP
         Middlewares/VOFA
         Middlewares/LOG
-        Nnom_Lib/inc
-        Nnom_Lib/inc/layers
-        Nnom_Lib/port
+        CNN
+        CNN/nnom-master/inc
+        CNN/nnom-master/inc/layers
+        CNN/nnom-master/port
         APP_TASK/LED_Task
         APP_TASK/BUTTON_Task
         APP_TASK/CNN_Task
@@ -80,7 +81,7 @@ file(GLOB_RECURSE SOURCES "Core/*.*"
         "Middlewares/*.*"
         "USB_DEVICE/*.*"
         "Drivers/*.*"
-        "Nnom_Lib/*.*"
+        "CNN/nnom-master/src/*.*"
         "BSP/*.*"
         "APP_TASK/*.*"
 )

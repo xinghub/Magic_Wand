@@ -43,9 +43,10 @@
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG"/>
-					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc"/>
-					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers"/>
-					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task"/>
@@ -92,9 +93,10 @@
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG"/>
-					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc"/>
-					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers"/>
-					<Add directory="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers"/>
+					<Add directory="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task"/>
 					<Add directory="D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task"/>
@@ -195,6 +197,99 @@
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/BSP/BSP_LED_Driver/BSP_LED_Driver.h">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local_q15.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_layers.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_tensor.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_utils.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_activation.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_avgpool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_baselayer.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_concat.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d_trans.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_cropping.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dense.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dw_conv2d.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_flatten.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_global_pool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_gru_cell.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_input.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lambda.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lstm_cell.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_matrix.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_maxpool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_output.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_reshape.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_rnn.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_simple_cell.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_softmax.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_sumpool.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_upsample.c">
+			<Option target="MZ_CNN_Proj.elf"/>
+		</Unit>
+		<Unit filename="D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_zero_padding.c">
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Core/Inc/IIC.h">
@@ -516,195 +611,6 @@
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_baselayer.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/weights.h">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local_q15.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_layers.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_tensor.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_utils.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_activation.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_avgpool.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_baselayer.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_concat.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d_trans.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_cropping.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dense.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dw_conv2d.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_flatten.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_global_pool.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_gru_cell.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_input.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lambda.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lstm_cell.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_matrix.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_maxpool.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_output.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_reshape.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_rnn.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_simple_cell.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_softmax.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_sumpool.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_upsample.c">
-			<Option target="MZ_CNN_Proj.elf"/>
-		</Unit>
-		<Unit filename="D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_zero_padding.c">
 			<Option target="MZ_CNN_Proj.elf"/>
 		</Unit>
 		<Unit filename="D:/mz_v1/MZ_CNN_Proj/STM32F103CBTx_FLASH.ld">

@@ -333,6 +333,750 @@ BSP/BSP_LED_Driver/BSP_LED_Driver.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.s
 .PHONY : BSP/BSP_LED_Driver/BSP_LED_Driver.c.s
 
+CNN/nnom-master/src/backends/nnom_local.obj: CNN/nnom-master/src/backends/nnom_local.c.obj
+.PHONY : CNN/nnom-master/src/backends/nnom_local.obj
+
+# target to build an object file
+CNN/nnom-master/src/backends/nnom_local.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj
+.PHONY : CNN/nnom-master/src/backends/nnom_local.c.obj
+
+CNN/nnom-master/src/backends/nnom_local.i: CNN/nnom-master/src/backends/nnom_local.c.i
+.PHONY : CNN/nnom-master/src/backends/nnom_local.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/backends/nnom_local.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.i
+.PHONY : CNN/nnom-master/src/backends/nnom_local.c.i
+
+CNN/nnom-master/src/backends/nnom_local.s: CNN/nnom-master/src/backends/nnom_local.c.s
+.PHONY : CNN/nnom-master/src/backends/nnom_local.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/backends/nnom_local.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.s
+.PHONY : CNN/nnom-master/src/backends/nnom_local.c.s
+
+CNN/nnom-master/src/backends/nnom_local_q15.obj: CNN/nnom-master/src/backends/nnom_local_q15.c.obj
+.PHONY : CNN/nnom-master/src/backends/nnom_local_q15.obj
+
+# target to build an object file
+CNN/nnom-master/src/backends/nnom_local_q15.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj
+.PHONY : CNN/nnom-master/src/backends/nnom_local_q15.c.obj
+
+CNN/nnom-master/src/backends/nnom_local_q15.i: CNN/nnom-master/src/backends/nnom_local_q15.c.i
+.PHONY : CNN/nnom-master/src/backends/nnom_local_q15.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/backends/nnom_local_q15.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.i
+.PHONY : CNN/nnom-master/src/backends/nnom_local_q15.c.i
+
+CNN/nnom-master/src/backends/nnom_local_q15.s: CNN/nnom-master/src/backends/nnom_local_q15.c.s
+.PHONY : CNN/nnom-master/src/backends/nnom_local_q15.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/backends/nnom_local_q15.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.s
+.PHONY : CNN/nnom-master/src/backends/nnom_local_q15.c.s
+
+CNN/nnom-master/src/core/nnom.obj: CNN/nnom-master/src/core/nnom.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom.obj
+
+# target to build an object file
+CNN/nnom-master/src/core/nnom.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom.c.obj
+
+CNN/nnom-master/src/core/nnom.i: CNN/nnom-master/src/core/nnom.c.i
+.PHONY : CNN/nnom-master/src/core/nnom.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/core/nnom.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.i
+.PHONY : CNN/nnom-master/src/core/nnom.c.i
+
+CNN/nnom-master/src/core/nnom.s: CNN/nnom-master/src/core/nnom.c.s
+.PHONY : CNN/nnom-master/src/core/nnom.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/core/nnom.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.s
+.PHONY : CNN/nnom-master/src/core/nnom.c.s
+
+CNN/nnom-master/src/core/nnom_layers.obj: CNN/nnom-master/src/core/nnom_layers.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom_layers.obj
+
+# target to build an object file
+CNN/nnom-master/src/core/nnom_layers.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom_layers.c.obj
+
+CNN/nnom-master/src/core/nnom_layers.i: CNN/nnom-master/src/core/nnom_layers.c.i
+.PHONY : CNN/nnom-master/src/core/nnom_layers.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/core/nnom_layers.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.i
+.PHONY : CNN/nnom-master/src/core/nnom_layers.c.i
+
+CNN/nnom-master/src/core/nnom_layers.s: CNN/nnom-master/src/core/nnom_layers.c.s
+.PHONY : CNN/nnom-master/src/core/nnom_layers.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/core/nnom_layers.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.s
+.PHONY : CNN/nnom-master/src/core/nnom_layers.c.s
+
+CNN/nnom-master/src/core/nnom_tensor.obj: CNN/nnom-master/src/core/nnom_tensor.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom_tensor.obj
+
+# target to build an object file
+CNN/nnom-master/src/core/nnom_tensor.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom_tensor.c.obj
+
+CNN/nnom-master/src/core/nnom_tensor.i: CNN/nnom-master/src/core/nnom_tensor.c.i
+.PHONY : CNN/nnom-master/src/core/nnom_tensor.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/core/nnom_tensor.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.i
+.PHONY : CNN/nnom-master/src/core/nnom_tensor.c.i
+
+CNN/nnom-master/src/core/nnom_tensor.s: CNN/nnom-master/src/core/nnom_tensor.c.s
+.PHONY : CNN/nnom-master/src/core/nnom_tensor.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/core/nnom_tensor.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.s
+.PHONY : CNN/nnom-master/src/core/nnom_tensor.c.s
+
+CNN/nnom-master/src/core/nnom_utils.obj: CNN/nnom-master/src/core/nnom_utils.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom_utils.obj
+
+# target to build an object file
+CNN/nnom-master/src/core/nnom_utils.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj
+.PHONY : CNN/nnom-master/src/core/nnom_utils.c.obj
+
+CNN/nnom-master/src/core/nnom_utils.i: CNN/nnom-master/src/core/nnom_utils.c.i
+.PHONY : CNN/nnom-master/src/core/nnom_utils.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/core/nnom_utils.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.i
+.PHONY : CNN/nnom-master/src/core/nnom_utils.c.i
+
+CNN/nnom-master/src/core/nnom_utils.s: CNN/nnom-master/src/core/nnom_utils.c.s
+.PHONY : CNN/nnom-master/src/core/nnom_utils.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/core/nnom_utils.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.s
+.PHONY : CNN/nnom-master/src/core/nnom_utils.c.s
+
+CNN/nnom-master/src/layers/nnom_activation.obj: CNN/nnom-master/src/layers/nnom_activation.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_activation.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_activation.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_activation.c.obj
+
+CNN/nnom-master/src/layers/nnom_activation.i: CNN/nnom-master/src/layers/nnom_activation.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_activation.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_activation.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_activation.c.i
+
+CNN/nnom-master/src/layers/nnom_activation.s: CNN/nnom-master/src/layers/nnom_activation.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_activation.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_activation.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_activation.c.s
+
+CNN/nnom-master/src/layers/nnom_avgpool.obj: CNN/nnom-master/src/layers/nnom_avgpool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_avgpool.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_avgpool.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_avgpool.c.obj
+
+CNN/nnom-master/src/layers/nnom_avgpool.i: CNN/nnom-master/src/layers/nnom_avgpool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_avgpool.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_avgpool.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_avgpool.c.i
+
+CNN/nnom-master/src/layers/nnom_avgpool.s: CNN/nnom-master/src/layers/nnom_avgpool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_avgpool.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_avgpool.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_avgpool.c.s
+
+CNN/nnom-master/src/layers/nnom_baselayer.obj: CNN/nnom-master/src/layers/nnom_baselayer.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_baselayer.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_baselayer.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_baselayer.c.obj
+
+CNN/nnom-master/src/layers/nnom_baselayer.i: CNN/nnom-master/src/layers/nnom_baselayer.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_baselayer.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_baselayer.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_baselayer.c.i
+
+CNN/nnom-master/src/layers/nnom_baselayer.s: CNN/nnom-master/src/layers/nnom_baselayer.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_baselayer.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_baselayer.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_baselayer.c.s
+
+CNN/nnom-master/src/layers/nnom_concat.obj: CNN/nnom-master/src/layers/nnom_concat.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_concat.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_concat.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_concat.c.obj
+
+CNN/nnom-master/src/layers/nnom_concat.i: CNN/nnom-master/src/layers/nnom_concat.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_concat.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_concat.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_concat.c.i
+
+CNN/nnom-master/src/layers/nnom_concat.s: CNN/nnom-master/src/layers/nnom_concat.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_concat.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_concat.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_concat.c.s
+
+CNN/nnom-master/src/layers/nnom_conv2d.obj: CNN/nnom-master/src/layers/nnom_conv2d.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_conv2d.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d.c.obj
+
+CNN/nnom-master/src/layers/nnom_conv2d.i: CNN/nnom-master/src/layers/nnom_conv2d.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_conv2d.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d.c.i
+
+CNN/nnom-master/src/layers/nnom_conv2d.s: CNN/nnom-master/src/layers/nnom_conv2d.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_conv2d.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d.c.s
+
+CNN/nnom-master/src/layers/nnom_conv2d_trans.obj: CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d_trans.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj
+
+CNN/nnom-master/src/layers/nnom_conv2d_trans.i: CNN/nnom-master/src/layers/nnom_conv2d_trans.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d_trans.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_conv2d_trans.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d_trans.c.i
+
+CNN/nnom-master/src/layers/nnom_conv2d_trans.s: CNN/nnom-master/src/layers/nnom_conv2d_trans.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d_trans.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_conv2d_trans.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_conv2d_trans.c.s
+
+CNN/nnom-master/src/layers/nnom_cropping.obj: CNN/nnom-master/src/layers/nnom_cropping.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_cropping.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_cropping.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_cropping.c.obj
+
+CNN/nnom-master/src/layers/nnom_cropping.i: CNN/nnom-master/src/layers/nnom_cropping.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_cropping.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_cropping.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_cropping.c.i
+
+CNN/nnom-master/src/layers/nnom_cropping.s: CNN/nnom-master/src/layers/nnom_cropping.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_cropping.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_cropping.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_cropping.c.s
+
+CNN/nnom-master/src/layers/nnom_dense.obj: CNN/nnom-master/src/layers/nnom_dense.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_dense.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_dense.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_dense.c.obj
+
+CNN/nnom-master/src/layers/nnom_dense.i: CNN/nnom-master/src/layers/nnom_dense.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_dense.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_dense.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_dense.c.i
+
+CNN/nnom-master/src/layers/nnom_dense.s: CNN/nnom-master/src/layers/nnom_dense.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_dense.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_dense.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_dense.c.s
+
+CNN/nnom-master/src/layers/nnom_dw_conv2d.obj: CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_dw_conv2d.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj
+
+CNN/nnom-master/src/layers/nnom_dw_conv2d.i: CNN/nnom-master/src/layers/nnom_dw_conv2d.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_dw_conv2d.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_dw_conv2d.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_dw_conv2d.c.i
+
+CNN/nnom-master/src/layers/nnom_dw_conv2d.s: CNN/nnom-master/src/layers/nnom_dw_conv2d.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_dw_conv2d.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_dw_conv2d.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_dw_conv2d.c.s
+
+CNN/nnom-master/src/layers/nnom_flatten.obj: CNN/nnom-master/src/layers/nnom_flatten.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_flatten.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_flatten.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_flatten.c.obj
+
+CNN/nnom-master/src/layers/nnom_flatten.i: CNN/nnom-master/src/layers/nnom_flatten.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_flatten.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_flatten.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_flatten.c.i
+
+CNN/nnom-master/src/layers/nnom_flatten.s: CNN/nnom-master/src/layers/nnom_flatten.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_flatten.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_flatten.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_flatten.c.s
+
+CNN/nnom-master/src/layers/nnom_global_pool.obj: CNN/nnom-master/src/layers/nnom_global_pool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_global_pool.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_global_pool.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_global_pool.c.obj
+
+CNN/nnom-master/src/layers/nnom_global_pool.i: CNN/nnom-master/src/layers/nnom_global_pool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_global_pool.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_global_pool.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_global_pool.c.i
+
+CNN/nnom-master/src/layers/nnom_global_pool.s: CNN/nnom-master/src/layers/nnom_global_pool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_global_pool.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_global_pool.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_global_pool.c.s
+
+CNN/nnom-master/src/layers/nnom_gru_cell.obj: CNN/nnom-master/src/layers/nnom_gru_cell.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_gru_cell.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_gru_cell.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_gru_cell.c.obj
+
+CNN/nnom-master/src/layers/nnom_gru_cell.i: CNN/nnom-master/src/layers/nnom_gru_cell.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_gru_cell.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_gru_cell.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_gru_cell.c.i
+
+CNN/nnom-master/src/layers/nnom_gru_cell.s: CNN/nnom-master/src/layers/nnom_gru_cell.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_gru_cell.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_gru_cell.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_gru_cell.c.s
+
+CNN/nnom-master/src/layers/nnom_input.obj: CNN/nnom-master/src/layers/nnom_input.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_input.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_input.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_input.c.obj
+
+CNN/nnom-master/src/layers/nnom_input.i: CNN/nnom-master/src/layers/nnom_input.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_input.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_input.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_input.c.i
+
+CNN/nnom-master/src/layers/nnom_input.s: CNN/nnom-master/src/layers/nnom_input.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_input.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_input.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_input.c.s
+
+CNN/nnom-master/src/layers/nnom_lambda.obj: CNN/nnom-master/src/layers/nnom_lambda.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_lambda.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_lambda.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_lambda.c.obj
+
+CNN/nnom-master/src/layers/nnom_lambda.i: CNN/nnom-master/src/layers/nnom_lambda.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_lambda.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_lambda.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_lambda.c.i
+
+CNN/nnom-master/src/layers/nnom_lambda.s: CNN/nnom-master/src/layers/nnom_lambda.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_lambda.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_lambda.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_lambda.c.s
+
+CNN/nnom-master/src/layers/nnom_lstm_cell.obj: CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_lstm_cell.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj
+
+CNN/nnom-master/src/layers/nnom_lstm_cell.i: CNN/nnom-master/src/layers/nnom_lstm_cell.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_lstm_cell.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_lstm_cell.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_lstm_cell.c.i
+
+CNN/nnom-master/src/layers/nnom_lstm_cell.s: CNN/nnom-master/src/layers/nnom_lstm_cell.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_lstm_cell.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_lstm_cell.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_lstm_cell.c.s
+
+CNN/nnom-master/src/layers/nnom_matrix.obj: CNN/nnom-master/src/layers/nnom_matrix.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_matrix.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_matrix.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_matrix.c.obj
+
+CNN/nnom-master/src/layers/nnom_matrix.i: CNN/nnom-master/src/layers/nnom_matrix.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_matrix.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_matrix.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_matrix.c.i
+
+CNN/nnom-master/src/layers/nnom_matrix.s: CNN/nnom-master/src/layers/nnom_matrix.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_matrix.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_matrix.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_matrix.c.s
+
+CNN/nnom-master/src/layers/nnom_maxpool.obj: CNN/nnom-master/src/layers/nnom_maxpool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_maxpool.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_maxpool.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_maxpool.c.obj
+
+CNN/nnom-master/src/layers/nnom_maxpool.i: CNN/nnom-master/src/layers/nnom_maxpool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_maxpool.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_maxpool.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_maxpool.c.i
+
+CNN/nnom-master/src/layers/nnom_maxpool.s: CNN/nnom-master/src/layers/nnom_maxpool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_maxpool.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_maxpool.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_maxpool.c.s
+
+CNN/nnom-master/src/layers/nnom_output.obj: CNN/nnom-master/src/layers/nnom_output.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_output.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_output.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_output.c.obj
+
+CNN/nnom-master/src/layers/nnom_output.i: CNN/nnom-master/src/layers/nnom_output.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_output.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_output.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_output.c.i
+
+CNN/nnom-master/src/layers/nnom_output.s: CNN/nnom-master/src/layers/nnom_output.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_output.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_output.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_output.c.s
+
+CNN/nnom-master/src/layers/nnom_reshape.obj: CNN/nnom-master/src/layers/nnom_reshape.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_reshape.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_reshape.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_reshape.c.obj
+
+CNN/nnom-master/src/layers/nnom_reshape.i: CNN/nnom-master/src/layers/nnom_reshape.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_reshape.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_reshape.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_reshape.c.i
+
+CNN/nnom-master/src/layers/nnom_reshape.s: CNN/nnom-master/src/layers/nnom_reshape.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_reshape.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_reshape.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_reshape.c.s
+
+CNN/nnom-master/src/layers/nnom_rnn.obj: CNN/nnom-master/src/layers/nnom_rnn.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_rnn.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_rnn.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_rnn.c.obj
+
+CNN/nnom-master/src/layers/nnom_rnn.i: CNN/nnom-master/src/layers/nnom_rnn.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_rnn.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_rnn.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_rnn.c.i
+
+CNN/nnom-master/src/layers/nnom_rnn.s: CNN/nnom-master/src/layers/nnom_rnn.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_rnn.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_rnn.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_rnn.c.s
+
+CNN/nnom-master/src/layers/nnom_simple_cell.obj: CNN/nnom-master/src/layers/nnom_simple_cell.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_simple_cell.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_simple_cell.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_simple_cell.c.obj
+
+CNN/nnom-master/src/layers/nnom_simple_cell.i: CNN/nnom-master/src/layers/nnom_simple_cell.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_simple_cell.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_simple_cell.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_simple_cell.c.i
+
+CNN/nnom-master/src/layers/nnom_simple_cell.s: CNN/nnom-master/src/layers/nnom_simple_cell.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_simple_cell.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_simple_cell.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_simple_cell.c.s
+
+CNN/nnom-master/src/layers/nnom_softmax.obj: CNN/nnom-master/src/layers/nnom_softmax.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_softmax.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_softmax.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_softmax.c.obj
+
+CNN/nnom-master/src/layers/nnom_softmax.i: CNN/nnom-master/src/layers/nnom_softmax.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_softmax.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_softmax.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_softmax.c.i
+
+CNN/nnom-master/src/layers/nnom_softmax.s: CNN/nnom-master/src/layers/nnom_softmax.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_softmax.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_softmax.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_softmax.c.s
+
+CNN/nnom-master/src/layers/nnom_sumpool.obj: CNN/nnom-master/src/layers/nnom_sumpool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_sumpool.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_sumpool.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_sumpool.c.obj
+
+CNN/nnom-master/src/layers/nnom_sumpool.i: CNN/nnom-master/src/layers/nnom_sumpool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_sumpool.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_sumpool.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_sumpool.c.i
+
+CNN/nnom-master/src/layers/nnom_sumpool.s: CNN/nnom-master/src/layers/nnom_sumpool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_sumpool.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_sumpool.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_sumpool.c.s
+
+CNN/nnom-master/src/layers/nnom_upsample.obj: CNN/nnom-master/src/layers/nnom_upsample.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_upsample.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_upsample.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_upsample.c.obj
+
+CNN/nnom-master/src/layers/nnom_upsample.i: CNN/nnom-master/src/layers/nnom_upsample.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_upsample.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_upsample.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_upsample.c.i
+
+CNN/nnom-master/src/layers/nnom_upsample.s: CNN/nnom-master/src/layers/nnom_upsample.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_upsample.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_upsample.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_upsample.c.s
+
+CNN/nnom-master/src/layers/nnom_zero_padding.obj: CNN/nnom-master/src/layers/nnom_zero_padding.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_zero_padding.obj
+
+# target to build an object file
+CNN/nnom-master/src/layers/nnom_zero_padding.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj
+.PHONY : CNN/nnom-master/src/layers/nnom_zero_padding.c.obj
+
+CNN/nnom-master/src/layers/nnom_zero_padding.i: CNN/nnom-master/src/layers/nnom_zero_padding.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_zero_padding.i
+
+# target to preprocess a source file
+CNN/nnom-master/src/layers/nnom_zero_padding.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.i
+.PHONY : CNN/nnom-master/src/layers/nnom_zero_padding.c.i
+
+CNN/nnom-master/src/layers/nnom_zero_padding.s: CNN/nnom-master/src/layers/nnom_zero_padding.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_zero_padding.s
+
+# target to generate assembly for a file
+CNN/nnom-master/src/layers/nnom_zero_padding.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.s
+.PHONY : CNN/nnom-master/src/layers/nnom_zero_padding.c.s
+
 Core/Src/IIC.obj: Core/Src/IIC.c.obj
 .PHONY : Core/Src/IIC.obj
 
@@ -1229,750 +1973,6 @@ Middlewares/VOFA/vofa.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.s
 .PHONY : Middlewares/VOFA/vofa.c.s
 
-Nnom_Lib/src/backends/nnom_local.obj: Nnom_Lib/src/backends/nnom_local.c.obj
-.PHONY : Nnom_Lib/src/backends/nnom_local.obj
-
-# target to build an object file
-Nnom_Lib/src/backends/nnom_local.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj
-.PHONY : Nnom_Lib/src/backends/nnom_local.c.obj
-
-Nnom_Lib/src/backends/nnom_local.i: Nnom_Lib/src/backends/nnom_local.c.i
-.PHONY : Nnom_Lib/src/backends/nnom_local.i
-
-# target to preprocess a source file
-Nnom_Lib/src/backends/nnom_local.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.i
-.PHONY : Nnom_Lib/src/backends/nnom_local.c.i
-
-Nnom_Lib/src/backends/nnom_local.s: Nnom_Lib/src/backends/nnom_local.c.s
-.PHONY : Nnom_Lib/src/backends/nnom_local.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/backends/nnom_local.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.s
-.PHONY : Nnom_Lib/src/backends/nnom_local.c.s
-
-Nnom_Lib/src/backends/nnom_local_q15.obj: Nnom_Lib/src/backends/nnom_local_q15.c.obj
-.PHONY : Nnom_Lib/src/backends/nnom_local_q15.obj
-
-# target to build an object file
-Nnom_Lib/src/backends/nnom_local_q15.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj
-.PHONY : Nnom_Lib/src/backends/nnom_local_q15.c.obj
-
-Nnom_Lib/src/backends/nnom_local_q15.i: Nnom_Lib/src/backends/nnom_local_q15.c.i
-.PHONY : Nnom_Lib/src/backends/nnom_local_q15.i
-
-# target to preprocess a source file
-Nnom_Lib/src/backends/nnom_local_q15.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.i
-.PHONY : Nnom_Lib/src/backends/nnom_local_q15.c.i
-
-Nnom_Lib/src/backends/nnom_local_q15.s: Nnom_Lib/src/backends/nnom_local_q15.c.s
-.PHONY : Nnom_Lib/src/backends/nnom_local_q15.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/backends/nnom_local_q15.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.s
-.PHONY : Nnom_Lib/src/backends/nnom_local_q15.c.s
-
-Nnom_Lib/src/core/nnom.obj: Nnom_Lib/src/core/nnom.c.obj
-.PHONY : Nnom_Lib/src/core/nnom.obj
-
-# target to build an object file
-Nnom_Lib/src/core/nnom.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj
-.PHONY : Nnom_Lib/src/core/nnom.c.obj
-
-Nnom_Lib/src/core/nnom.i: Nnom_Lib/src/core/nnom.c.i
-.PHONY : Nnom_Lib/src/core/nnom.i
-
-# target to preprocess a source file
-Nnom_Lib/src/core/nnom.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.i
-.PHONY : Nnom_Lib/src/core/nnom.c.i
-
-Nnom_Lib/src/core/nnom.s: Nnom_Lib/src/core/nnom.c.s
-.PHONY : Nnom_Lib/src/core/nnom.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/core/nnom.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.s
-.PHONY : Nnom_Lib/src/core/nnom.c.s
-
-Nnom_Lib/src/core/nnom_layers.obj: Nnom_Lib/src/core/nnom_layers.c.obj
-.PHONY : Nnom_Lib/src/core/nnom_layers.obj
-
-# target to build an object file
-Nnom_Lib/src/core/nnom_layers.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj
-.PHONY : Nnom_Lib/src/core/nnom_layers.c.obj
-
-Nnom_Lib/src/core/nnom_layers.i: Nnom_Lib/src/core/nnom_layers.c.i
-.PHONY : Nnom_Lib/src/core/nnom_layers.i
-
-# target to preprocess a source file
-Nnom_Lib/src/core/nnom_layers.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.i
-.PHONY : Nnom_Lib/src/core/nnom_layers.c.i
-
-Nnom_Lib/src/core/nnom_layers.s: Nnom_Lib/src/core/nnom_layers.c.s
-.PHONY : Nnom_Lib/src/core/nnom_layers.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/core/nnom_layers.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.s
-.PHONY : Nnom_Lib/src/core/nnom_layers.c.s
-
-Nnom_Lib/src/core/nnom_tensor.obj: Nnom_Lib/src/core/nnom_tensor.c.obj
-.PHONY : Nnom_Lib/src/core/nnom_tensor.obj
-
-# target to build an object file
-Nnom_Lib/src/core/nnom_tensor.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj
-.PHONY : Nnom_Lib/src/core/nnom_tensor.c.obj
-
-Nnom_Lib/src/core/nnom_tensor.i: Nnom_Lib/src/core/nnom_tensor.c.i
-.PHONY : Nnom_Lib/src/core/nnom_tensor.i
-
-# target to preprocess a source file
-Nnom_Lib/src/core/nnom_tensor.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.i
-.PHONY : Nnom_Lib/src/core/nnom_tensor.c.i
-
-Nnom_Lib/src/core/nnom_tensor.s: Nnom_Lib/src/core/nnom_tensor.c.s
-.PHONY : Nnom_Lib/src/core/nnom_tensor.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/core/nnom_tensor.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.s
-.PHONY : Nnom_Lib/src/core/nnom_tensor.c.s
-
-Nnom_Lib/src/core/nnom_utils.obj: Nnom_Lib/src/core/nnom_utils.c.obj
-.PHONY : Nnom_Lib/src/core/nnom_utils.obj
-
-# target to build an object file
-Nnom_Lib/src/core/nnom_utils.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj
-.PHONY : Nnom_Lib/src/core/nnom_utils.c.obj
-
-Nnom_Lib/src/core/nnom_utils.i: Nnom_Lib/src/core/nnom_utils.c.i
-.PHONY : Nnom_Lib/src/core/nnom_utils.i
-
-# target to preprocess a source file
-Nnom_Lib/src/core/nnom_utils.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.i
-.PHONY : Nnom_Lib/src/core/nnom_utils.c.i
-
-Nnom_Lib/src/core/nnom_utils.s: Nnom_Lib/src/core/nnom_utils.c.s
-.PHONY : Nnom_Lib/src/core/nnom_utils.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/core/nnom_utils.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.s
-.PHONY : Nnom_Lib/src/core/nnom_utils.c.s
-
-Nnom_Lib/src/layers/nnom_activation.obj: Nnom_Lib/src/layers/nnom_activation.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_activation.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_activation.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_activation.c.obj
-
-Nnom_Lib/src/layers/nnom_activation.i: Nnom_Lib/src/layers/nnom_activation.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_activation.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_activation.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_activation.c.i
-
-Nnom_Lib/src/layers/nnom_activation.s: Nnom_Lib/src/layers/nnom_activation.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_activation.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_activation.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_activation.c.s
-
-Nnom_Lib/src/layers/nnom_avgpool.obj: Nnom_Lib/src/layers/nnom_avgpool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_avgpool.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_avgpool.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_avgpool.c.obj
-
-Nnom_Lib/src/layers/nnom_avgpool.i: Nnom_Lib/src/layers/nnom_avgpool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_avgpool.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_avgpool.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_avgpool.c.i
-
-Nnom_Lib/src/layers/nnom_avgpool.s: Nnom_Lib/src/layers/nnom_avgpool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_avgpool.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_avgpool.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_avgpool.c.s
-
-Nnom_Lib/src/layers/nnom_baselayer.obj: Nnom_Lib/src/layers/nnom_baselayer.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_baselayer.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_baselayer.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_baselayer.c.obj
-
-Nnom_Lib/src/layers/nnom_baselayer.i: Nnom_Lib/src/layers/nnom_baselayer.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_baselayer.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_baselayer.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_baselayer.c.i
-
-Nnom_Lib/src/layers/nnom_baselayer.s: Nnom_Lib/src/layers/nnom_baselayer.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_baselayer.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_baselayer.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_baselayer.c.s
-
-Nnom_Lib/src/layers/nnom_concat.obj: Nnom_Lib/src/layers/nnom_concat.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_concat.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_concat.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_concat.c.obj
-
-Nnom_Lib/src/layers/nnom_concat.i: Nnom_Lib/src/layers/nnom_concat.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_concat.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_concat.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_concat.c.i
-
-Nnom_Lib/src/layers/nnom_concat.s: Nnom_Lib/src/layers/nnom_concat.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_concat.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_concat.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_concat.c.s
-
-Nnom_Lib/src/layers/nnom_conv2d.obj: Nnom_Lib/src/layers/nnom_conv2d.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_conv2d.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d.c.obj
-
-Nnom_Lib/src/layers/nnom_conv2d.i: Nnom_Lib/src/layers/nnom_conv2d.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_conv2d.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d.c.i
-
-Nnom_Lib/src/layers/nnom_conv2d.s: Nnom_Lib/src/layers/nnom_conv2d.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_conv2d.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d.c.s
-
-Nnom_Lib/src/layers/nnom_conv2d_trans.obj: Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d_trans.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj
-
-Nnom_Lib/src/layers/nnom_conv2d_trans.i: Nnom_Lib/src/layers/nnom_conv2d_trans.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d_trans.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_conv2d_trans.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d_trans.c.i
-
-Nnom_Lib/src/layers/nnom_conv2d_trans.s: Nnom_Lib/src/layers/nnom_conv2d_trans.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d_trans.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_conv2d_trans.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_conv2d_trans.c.s
-
-Nnom_Lib/src/layers/nnom_cropping.obj: Nnom_Lib/src/layers/nnom_cropping.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_cropping.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_cropping.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_cropping.c.obj
-
-Nnom_Lib/src/layers/nnom_cropping.i: Nnom_Lib/src/layers/nnom_cropping.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_cropping.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_cropping.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_cropping.c.i
-
-Nnom_Lib/src/layers/nnom_cropping.s: Nnom_Lib/src/layers/nnom_cropping.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_cropping.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_cropping.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_cropping.c.s
-
-Nnom_Lib/src/layers/nnom_dense.obj: Nnom_Lib/src/layers/nnom_dense.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_dense.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_dense.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_dense.c.obj
-
-Nnom_Lib/src/layers/nnom_dense.i: Nnom_Lib/src/layers/nnom_dense.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_dense.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_dense.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_dense.c.i
-
-Nnom_Lib/src/layers/nnom_dense.s: Nnom_Lib/src/layers/nnom_dense.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_dense.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_dense.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_dense.c.s
-
-Nnom_Lib/src/layers/nnom_dw_conv2d.obj: Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_dw_conv2d.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj
-
-Nnom_Lib/src/layers/nnom_dw_conv2d.i: Nnom_Lib/src/layers/nnom_dw_conv2d.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_dw_conv2d.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_dw_conv2d.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_dw_conv2d.c.i
-
-Nnom_Lib/src/layers/nnom_dw_conv2d.s: Nnom_Lib/src/layers/nnom_dw_conv2d.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_dw_conv2d.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_dw_conv2d.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_dw_conv2d.c.s
-
-Nnom_Lib/src/layers/nnom_flatten.obj: Nnom_Lib/src/layers/nnom_flatten.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_flatten.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_flatten.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_flatten.c.obj
-
-Nnom_Lib/src/layers/nnom_flatten.i: Nnom_Lib/src/layers/nnom_flatten.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_flatten.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_flatten.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_flatten.c.i
-
-Nnom_Lib/src/layers/nnom_flatten.s: Nnom_Lib/src/layers/nnom_flatten.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_flatten.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_flatten.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_flatten.c.s
-
-Nnom_Lib/src/layers/nnom_global_pool.obj: Nnom_Lib/src/layers/nnom_global_pool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_global_pool.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_global_pool.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_global_pool.c.obj
-
-Nnom_Lib/src/layers/nnom_global_pool.i: Nnom_Lib/src/layers/nnom_global_pool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_global_pool.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_global_pool.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_global_pool.c.i
-
-Nnom_Lib/src/layers/nnom_global_pool.s: Nnom_Lib/src/layers/nnom_global_pool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_global_pool.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_global_pool.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_global_pool.c.s
-
-Nnom_Lib/src/layers/nnom_gru_cell.obj: Nnom_Lib/src/layers/nnom_gru_cell.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_gru_cell.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_gru_cell.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_gru_cell.c.obj
-
-Nnom_Lib/src/layers/nnom_gru_cell.i: Nnom_Lib/src/layers/nnom_gru_cell.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_gru_cell.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_gru_cell.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_gru_cell.c.i
-
-Nnom_Lib/src/layers/nnom_gru_cell.s: Nnom_Lib/src/layers/nnom_gru_cell.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_gru_cell.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_gru_cell.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_gru_cell.c.s
-
-Nnom_Lib/src/layers/nnom_input.obj: Nnom_Lib/src/layers/nnom_input.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_input.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_input.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_input.c.obj
-
-Nnom_Lib/src/layers/nnom_input.i: Nnom_Lib/src/layers/nnom_input.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_input.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_input.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_input.c.i
-
-Nnom_Lib/src/layers/nnom_input.s: Nnom_Lib/src/layers/nnom_input.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_input.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_input.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_input.c.s
-
-Nnom_Lib/src/layers/nnom_lambda.obj: Nnom_Lib/src/layers/nnom_lambda.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_lambda.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_lambda.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_lambda.c.obj
-
-Nnom_Lib/src/layers/nnom_lambda.i: Nnom_Lib/src/layers/nnom_lambda.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_lambda.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_lambda.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_lambda.c.i
-
-Nnom_Lib/src/layers/nnom_lambda.s: Nnom_Lib/src/layers/nnom_lambda.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_lambda.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_lambda.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_lambda.c.s
-
-Nnom_Lib/src/layers/nnom_lstm_cell.obj: Nnom_Lib/src/layers/nnom_lstm_cell.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_lstm_cell.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_lstm_cell.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_lstm_cell.c.obj
-
-Nnom_Lib/src/layers/nnom_lstm_cell.i: Nnom_Lib/src/layers/nnom_lstm_cell.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_lstm_cell.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_lstm_cell.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_lstm_cell.c.i
-
-Nnom_Lib/src/layers/nnom_lstm_cell.s: Nnom_Lib/src/layers/nnom_lstm_cell.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_lstm_cell.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_lstm_cell.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_lstm_cell.c.s
-
-Nnom_Lib/src/layers/nnom_matrix.obj: Nnom_Lib/src/layers/nnom_matrix.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_matrix.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_matrix.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_matrix.c.obj
-
-Nnom_Lib/src/layers/nnom_matrix.i: Nnom_Lib/src/layers/nnom_matrix.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_matrix.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_matrix.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_matrix.c.i
-
-Nnom_Lib/src/layers/nnom_matrix.s: Nnom_Lib/src/layers/nnom_matrix.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_matrix.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_matrix.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_matrix.c.s
-
-Nnom_Lib/src/layers/nnom_maxpool.obj: Nnom_Lib/src/layers/nnom_maxpool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_maxpool.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_maxpool.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_maxpool.c.obj
-
-Nnom_Lib/src/layers/nnom_maxpool.i: Nnom_Lib/src/layers/nnom_maxpool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_maxpool.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_maxpool.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_maxpool.c.i
-
-Nnom_Lib/src/layers/nnom_maxpool.s: Nnom_Lib/src/layers/nnom_maxpool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_maxpool.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_maxpool.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_maxpool.c.s
-
-Nnom_Lib/src/layers/nnom_output.obj: Nnom_Lib/src/layers/nnom_output.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_output.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_output.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_output.c.obj
-
-Nnom_Lib/src/layers/nnom_output.i: Nnom_Lib/src/layers/nnom_output.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_output.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_output.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_output.c.i
-
-Nnom_Lib/src/layers/nnom_output.s: Nnom_Lib/src/layers/nnom_output.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_output.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_output.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_output.c.s
-
-Nnom_Lib/src/layers/nnom_reshape.obj: Nnom_Lib/src/layers/nnom_reshape.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_reshape.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_reshape.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_reshape.c.obj
-
-Nnom_Lib/src/layers/nnom_reshape.i: Nnom_Lib/src/layers/nnom_reshape.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_reshape.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_reshape.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_reshape.c.i
-
-Nnom_Lib/src/layers/nnom_reshape.s: Nnom_Lib/src/layers/nnom_reshape.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_reshape.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_reshape.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_reshape.c.s
-
-Nnom_Lib/src/layers/nnom_rnn.obj: Nnom_Lib/src/layers/nnom_rnn.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_rnn.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_rnn.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_rnn.c.obj
-
-Nnom_Lib/src/layers/nnom_rnn.i: Nnom_Lib/src/layers/nnom_rnn.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_rnn.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_rnn.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_rnn.c.i
-
-Nnom_Lib/src/layers/nnom_rnn.s: Nnom_Lib/src/layers/nnom_rnn.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_rnn.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_rnn.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_rnn.c.s
-
-Nnom_Lib/src/layers/nnom_simple_cell.obj: Nnom_Lib/src/layers/nnom_simple_cell.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_simple_cell.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_simple_cell.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_simple_cell.c.obj
-
-Nnom_Lib/src/layers/nnom_simple_cell.i: Nnom_Lib/src/layers/nnom_simple_cell.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_simple_cell.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_simple_cell.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_simple_cell.c.i
-
-Nnom_Lib/src/layers/nnom_simple_cell.s: Nnom_Lib/src/layers/nnom_simple_cell.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_simple_cell.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_simple_cell.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_simple_cell.c.s
-
-Nnom_Lib/src/layers/nnom_softmax.obj: Nnom_Lib/src/layers/nnom_softmax.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_softmax.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_softmax.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_softmax.c.obj
-
-Nnom_Lib/src/layers/nnom_softmax.i: Nnom_Lib/src/layers/nnom_softmax.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_softmax.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_softmax.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_softmax.c.i
-
-Nnom_Lib/src/layers/nnom_softmax.s: Nnom_Lib/src/layers/nnom_softmax.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_softmax.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_softmax.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_softmax.c.s
-
-Nnom_Lib/src/layers/nnom_sumpool.obj: Nnom_Lib/src/layers/nnom_sumpool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_sumpool.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_sumpool.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_sumpool.c.obj
-
-Nnom_Lib/src/layers/nnom_sumpool.i: Nnom_Lib/src/layers/nnom_sumpool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_sumpool.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_sumpool.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_sumpool.c.i
-
-Nnom_Lib/src/layers/nnom_sumpool.s: Nnom_Lib/src/layers/nnom_sumpool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_sumpool.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_sumpool.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_sumpool.c.s
-
-Nnom_Lib/src/layers/nnom_upsample.obj: Nnom_Lib/src/layers/nnom_upsample.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_upsample.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_upsample.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_upsample.c.obj
-
-Nnom_Lib/src/layers/nnom_upsample.i: Nnom_Lib/src/layers/nnom_upsample.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_upsample.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_upsample.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_upsample.c.i
-
-Nnom_Lib/src/layers/nnom_upsample.s: Nnom_Lib/src/layers/nnom_upsample.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_upsample.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_upsample.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_upsample.c.s
-
-Nnom_Lib/src/layers/nnom_zero_padding.obj: Nnom_Lib/src/layers/nnom_zero_padding.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_zero_padding.obj
-
-# target to build an object file
-Nnom_Lib/src/layers/nnom_zero_padding.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj
-.PHONY : Nnom_Lib/src/layers/nnom_zero_padding.c.obj
-
-Nnom_Lib/src/layers/nnom_zero_padding.i: Nnom_Lib/src/layers/nnom_zero_padding.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_zero_padding.i
-
-# target to preprocess a source file
-Nnom_Lib/src/layers/nnom_zero_padding.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.i
-.PHONY : Nnom_Lib/src/layers/nnom_zero_padding.c.i
-
-Nnom_Lib/src/layers/nnom_zero_padding.s: Nnom_Lib/src/layers/nnom_zero_padding.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_zero_padding.s
-
-# target to generate assembly for a file
-Nnom_Lib/src/layers/nnom_zero_padding.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MZ_CNN_Proj.elf.dir\build.make CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.s
-.PHONY : Nnom_Lib/src/layers/nnom_zero_padding.c.s
-
 USB_DEVICE/App/usb_device.obj: USB_DEVICE/App/usb_device.c.obj
 .PHONY : USB_DEVICE/App/usb_device.obj
 
@@ -2079,6 +2079,99 @@ help:
 	@echo ... BSP/BSP_LED_Driver/BSP_LED_Driver.obj
 	@echo ... BSP/BSP_LED_Driver/BSP_LED_Driver.i
 	@echo ... BSP/BSP_LED_Driver/BSP_LED_Driver.s
+	@echo ... CNN/nnom-master/src/backends/nnom_local.obj
+	@echo ... CNN/nnom-master/src/backends/nnom_local.i
+	@echo ... CNN/nnom-master/src/backends/nnom_local.s
+	@echo ... CNN/nnom-master/src/backends/nnom_local_q15.obj
+	@echo ... CNN/nnom-master/src/backends/nnom_local_q15.i
+	@echo ... CNN/nnom-master/src/backends/nnom_local_q15.s
+	@echo ... CNN/nnom-master/src/core/nnom.obj
+	@echo ... CNN/nnom-master/src/core/nnom.i
+	@echo ... CNN/nnom-master/src/core/nnom.s
+	@echo ... CNN/nnom-master/src/core/nnom_layers.obj
+	@echo ... CNN/nnom-master/src/core/nnom_layers.i
+	@echo ... CNN/nnom-master/src/core/nnom_layers.s
+	@echo ... CNN/nnom-master/src/core/nnom_tensor.obj
+	@echo ... CNN/nnom-master/src/core/nnom_tensor.i
+	@echo ... CNN/nnom-master/src/core/nnom_tensor.s
+	@echo ... CNN/nnom-master/src/core/nnom_utils.obj
+	@echo ... CNN/nnom-master/src/core/nnom_utils.i
+	@echo ... CNN/nnom-master/src/core/nnom_utils.s
+	@echo ... CNN/nnom-master/src/layers/nnom_activation.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_activation.i
+	@echo ... CNN/nnom-master/src/layers/nnom_activation.s
+	@echo ... CNN/nnom-master/src/layers/nnom_avgpool.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_avgpool.i
+	@echo ... CNN/nnom-master/src/layers/nnom_avgpool.s
+	@echo ... CNN/nnom-master/src/layers/nnom_baselayer.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_baselayer.i
+	@echo ... CNN/nnom-master/src/layers/nnom_baselayer.s
+	@echo ... CNN/nnom-master/src/layers/nnom_concat.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_concat.i
+	@echo ... CNN/nnom-master/src/layers/nnom_concat.s
+	@echo ... CNN/nnom-master/src/layers/nnom_conv2d.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_conv2d.i
+	@echo ... CNN/nnom-master/src/layers/nnom_conv2d.s
+	@echo ... CNN/nnom-master/src/layers/nnom_conv2d_trans.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_conv2d_trans.i
+	@echo ... CNN/nnom-master/src/layers/nnom_conv2d_trans.s
+	@echo ... CNN/nnom-master/src/layers/nnom_cropping.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_cropping.i
+	@echo ... CNN/nnom-master/src/layers/nnom_cropping.s
+	@echo ... CNN/nnom-master/src/layers/nnom_dense.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_dense.i
+	@echo ... CNN/nnom-master/src/layers/nnom_dense.s
+	@echo ... CNN/nnom-master/src/layers/nnom_dw_conv2d.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_dw_conv2d.i
+	@echo ... CNN/nnom-master/src/layers/nnom_dw_conv2d.s
+	@echo ... CNN/nnom-master/src/layers/nnom_flatten.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_flatten.i
+	@echo ... CNN/nnom-master/src/layers/nnom_flatten.s
+	@echo ... CNN/nnom-master/src/layers/nnom_global_pool.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_global_pool.i
+	@echo ... CNN/nnom-master/src/layers/nnom_global_pool.s
+	@echo ... CNN/nnom-master/src/layers/nnom_gru_cell.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_gru_cell.i
+	@echo ... CNN/nnom-master/src/layers/nnom_gru_cell.s
+	@echo ... CNN/nnom-master/src/layers/nnom_input.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_input.i
+	@echo ... CNN/nnom-master/src/layers/nnom_input.s
+	@echo ... CNN/nnom-master/src/layers/nnom_lambda.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_lambda.i
+	@echo ... CNN/nnom-master/src/layers/nnom_lambda.s
+	@echo ... CNN/nnom-master/src/layers/nnom_lstm_cell.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_lstm_cell.i
+	@echo ... CNN/nnom-master/src/layers/nnom_lstm_cell.s
+	@echo ... CNN/nnom-master/src/layers/nnom_matrix.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_matrix.i
+	@echo ... CNN/nnom-master/src/layers/nnom_matrix.s
+	@echo ... CNN/nnom-master/src/layers/nnom_maxpool.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_maxpool.i
+	@echo ... CNN/nnom-master/src/layers/nnom_maxpool.s
+	@echo ... CNN/nnom-master/src/layers/nnom_output.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_output.i
+	@echo ... CNN/nnom-master/src/layers/nnom_output.s
+	@echo ... CNN/nnom-master/src/layers/nnom_reshape.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_reshape.i
+	@echo ... CNN/nnom-master/src/layers/nnom_reshape.s
+	@echo ... CNN/nnom-master/src/layers/nnom_rnn.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_rnn.i
+	@echo ... CNN/nnom-master/src/layers/nnom_rnn.s
+	@echo ... CNN/nnom-master/src/layers/nnom_simple_cell.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_simple_cell.i
+	@echo ... CNN/nnom-master/src/layers/nnom_simple_cell.s
+	@echo ... CNN/nnom-master/src/layers/nnom_softmax.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_softmax.i
+	@echo ... CNN/nnom-master/src/layers/nnom_softmax.s
+	@echo ... CNN/nnom-master/src/layers/nnom_sumpool.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_sumpool.i
+	@echo ... CNN/nnom-master/src/layers/nnom_sumpool.s
+	@echo ... CNN/nnom-master/src/layers/nnom_upsample.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_upsample.i
+	@echo ... CNN/nnom-master/src/layers/nnom_upsample.s
+	@echo ... CNN/nnom-master/src/layers/nnom_zero_padding.obj
+	@echo ... CNN/nnom-master/src/layers/nnom_zero_padding.i
+	@echo ... CNN/nnom-master/src/layers/nnom_zero_padding.s
 	@echo ... Core/Src/IIC.obj
 	@echo ... Core/Src/IIC.i
 	@echo ... Core/Src/IIC.s
@@ -2191,99 +2284,6 @@ help:
 	@echo ... Middlewares/VOFA/vofa.obj
 	@echo ... Middlewares/VOFA/vofa.i
 	@echo ... Middlewares/VOFA/vofa.s
-	@echo ... Nnom_Lib/src/backends/nnom_local.obj
-	@echo ... Nnom_Lib/src/backends/nnom_local.i
-	@echo ... Nnom_Lib/src/backends/nnom_local.s
-	@echo ... Nnom_Lib/src/backends/nnom_local_q15.obj
-	@echo ... Nnom_Lib/src/backends/nnom_local_q15.i
-	@echo ... Nnom_Lib/src/backends/nnom_local_q15.s
-	@echo ... Nnom_Lib/src/core/nnom.obj
-	@echo ... Nnom_Lib/src/core/nnom.i
-	@echo ... Nnom_Lib/src/core/nnom.s
-	@echo ... Nnom_Lib/src/core/nnom_layers.obj
-	@echo ... Nnom_Lib/src/core/nnom_layers.i
-	@echo ... Nnom_Lib/src/core/nnom_layers.s
-	@echo ... Nnom_Lib/src/core/nnom_tensor.obj
-	@echo ... Nnom_Lib/src/core/nnom_tensor.i
-	@echo ... Nnom_Lib/src/core/nnom_tensor.s
-	@echo ... Nnom_Lib/src/core/nnom_utils.obj
-	@echo ... Nnom_Lib/src/core/nnom_utils.i
-	@echo ... Nnom_Lib/src/core/nnom_utils.s
-	@echo ... Nnom_Lib/src/layers/nnom_activation.obj
-	@echo ... Nnom_Lib/src/layers/nnom_activation.i
-	@echo ... Nnom_Lib/src/layers/nnom_activation.s
-	@echo ... Nnom_Lib/src/layers/nnom_avgpool.obj
-	@echo ... Nnom_Lib/src/layers/nnom_avgpool.i
-	@echo ... Nnom_Lib/src/layers/nnom_avgpool.s
-	@echo ... Nnom_Lib/src/layers/nnom_baselayer.obj
-	@echo ... Nnom_Lib/src/layers/nnom_baselayer.i
-	@echo ... Nnom_Lib/src/layers/nnom_baselayer.s
-	@echo ... Nnom_Lib/src/layers/nnom_concat.obj
-	@echo ... Nnom_Lib/src/layers/nnom_concat.i
-	@echo ... Nnom_Lib/src/layers/nnom_concat.s
-	@echo ... Nnom_Lib/src/layers/nnom_conv2d.obj
-	@echo ... Nnom_Lib/src/layers/nnom_conv2d.i
-	@echo ... Nnom_Lib/src/layers/nnom_conv2d.s
-	@echo ... Nnom_Lib/src/layers/nnom_conv2d_trans.obj
-	@echo ... Nnom_Lib/src/layers/nnom_conv2d_trans.i
-	@echo ... Nnom_Lib/src/layers/nnom_conv2d_trans.s
-	@echo ... Nnom_Lib/src/layers/nnom_cropping.obj
-	@echo ... Nnom_Lib/src/layers/nnom_cropping.i
-	@echo ... Nnom_Lib/src/layers/nnom_cropping.s
-	@echo ... Nnom_Lib/src/layers/nnom_dense.obj
-	@echo ... Nnom_Lib/src/layers/nnom_dense.i
-	@echo ... Nnom_Lib/src/layers/nnom_dense.s
-	@echo ... Nnom_Lib/src/layers/nnom_dw_conv2d.obj
-	@echo ... Nnom_Lib/src/layers/nnom_dw_conv2d.i
-	@echo ... Nnom_Lib/src/layers/nnom_dw_conv2d.s
-	@echo ... Nnom_Lib/src/layers/nnom_flatten.obj
-	@echo ... Nnom_Lib/src/layers/nnom_flatten.i
-	@echo ... Nnom_Lib/src/layers/nnom_flatten.s
-	@echo ... Nnom_Lib/src/layers/nnom_global_pool.obj
-	@echo ... Nnom_Lib/src/layers/nnom_global_pool.i
-	@echo ... Nnom_Lib/src/layers/nnom_global_pool.s
-	@echo ... Nnom_Lib/src/layers/nnom_gru_cell.obj
-	@echo ... Nnom_Lib/src/layers/nnom_gru_cell.i
-	@echo ... Nnom_Lib/src/layers/nnom_gru_cell.s
-	@echo ... Nnom_Lib/src/layers/nnom_input.obj
-	@echo ... Nnom_Lib/src/layers/nnom_input.i
-	@echo ... Nnom_Lib/src/layers/nnom_input.s
-	@echo ... Nnom_Lib/src/layers/nnom_lambda.obj
-	@echo ... Nnom_Lib/src/layers/nnom_lambda.i
-	@echo ... Nnom_Lib/src/layers/nnom_lambda.s
-	@echo ... Nnom_Lib/src/layers/nnom_lstm_cell.obj
-	@echo ... Nnom_Lib/src/layers/nnom_lstm_cell.i
-	@echo ... Nnom_Lib/src/layers/nnom_lstm_cell.s
-	@echo ... Nnom_Lib/src/layers/nnom_matrix.obj
-	@echo ... Nnom_Lib/src/layers/nnom_matrix.i
-	@echo ... Nnom_Lib/src/layers/nnom_matrix.s
-	@echo ... Nnom_Lib/src/layers/nnom_maxpool.obj
-	@echo ... Nnom_Lib/src/layers/nnom_maxpool.i
-	@echo ... Nnom_Lib/src/layers/nnom_maxpool.s
-	@echo ... Nnom_Lib/src/layers/nnom_output.obj
-	@echo ... Nnom_Lib/src/layers/nnom_output.i
-	@echo ... Nnom_Lib/src/layers/nnom_output.s
-	@echo ... Nnom_Lib/src/layers/nnom_reshape.obj
-	@echo ... Nnom_Lib/src/layers/nnom_reshape.i
-	@echo ... Nnom_Lib/src/layers/nnom_reshape.s
-	@echo ... Nnom_Lib/src/layers/nnom_rnn.obj
-	@echo ... Nnom_Lib/src/layers/nnom_rnn.i
-	@echo ... Nnom_Lib/src/layers/nnom_rnn.s
-	@echo ... Nnom_Lib/src/layers/nnom_simple_cell.obj
-	@echo ... Nnom_Lib/src/layers/nnom_simple_cell.i
-	@echo ... Nnom_Lib/src/layers/nnom_simple_cell.s
-	@echo ... Nnom_Lib/src/layers/nnom_softmax.obj
-	@echo ... Nnom_Lib/src/layers/nnom_softmax.i
-	@echo ... Nnom_Lib/src/layers/nnom_softmax.s
-	@echo ... Nnom_Lib/src/layers/nnom_sumpool.obj
-	@echo ... Nnom_Lib/src/layers/nnom_sumpool.i
-	@echo ... Nnom_Lib/src/layers/nnom_sumpool.s
-	@echo ... Nnom_Lib/src/layers/nnom_upsample.obj
-	@echo ... Nnom_Lib/src/layers/nnom_upsample.i
-	@echo ... Nnom_Lib/src/layers/nnom_upsample.s
-	@echo ... Nnom_Lib/src/layers/nnom_zero_padding.obj
-	@echo ... Nnom_Lib/src/layers/nnom_zero_padding.i
-	@echo ... Nnom_Lib/src/layers/nnom_zero_padding.s
 	@echo ... USB_DEVICE/App/usb_device.obj
 	@echo ... USB_DEVICE/App/usb_device.i
 	@echo ... USB_DEVICE/App/usb_device.s

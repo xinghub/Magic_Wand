@@ -180,10 +180,444 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.s"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\BSP\BSP_LED_Driver\BSP_LED_Driver.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\BSP\BSP_LED_Driver\BSP_LED_Driver.c.s
 
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\backends\nnom_local.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\backends\nnom_local.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\backends\nnom_local.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local_q15.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local_q15.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local_q15.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\backends\nnom_local_q15.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\backends\nnom_local_q15.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local_q15.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\backends\nnom_local_q15.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\backends\nnom_local_q15.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_layers.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_layers.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_layers.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_layers.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_layers.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_layers.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_layers.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_layers.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_tensor.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_tensor.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_tensor.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_tensor.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_tensor.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_tensor.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_tensor.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_tensor.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_utils.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_utils.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_utils.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_utils.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_utils.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_utils.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\core\nnom_utils.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\core\nnom_utils.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_activation.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_activation.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_activation.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_activation.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_activation.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_activation.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_activation.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_activation.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_avgpool.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_avgpool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_avgpool.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_avgpool.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_avgpool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_avgpool.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_avgpool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_avgpool.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_baselayer.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_baselayer.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_baselayer.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_baselayer.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_baselayer.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_baselayer.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_baselayer.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_baselayer.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_concat.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_concat.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_concat.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_concat.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_concat.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_concat.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_concat.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_concat.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_conv2d.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_conv2d.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_conv2d.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d_trans.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d_trans.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d_trans.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_conv2d_trans.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_conv2d_trans.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d_trans.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_conv2d_trans.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_conv2d_trans.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_cropping.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_cropping.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_cropping.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_cropping.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_cropping.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_cropping.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_cropping.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_cropping.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dense.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dense.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dense.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_dense.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_dense.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dense.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_dense.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dense.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dw_conv2d.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dw_conv2d.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dw_conv2d.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_dw_conv2d.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_dw_conv2d.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dw_conv2d.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_dw_conv2d.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_dw_conv2d.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_flatten.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_flatten.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_flatten.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_flatten.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_flatten.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_flatten.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_flatten.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_flatten.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_global_pool.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_global_pool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_global_pool.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_global_pool.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_global_pool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_global_pool.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_global_pool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_global_pool.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_gru_cell.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_gru_cell.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_gru_cell.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_gru_cell.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_gru_cell.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_gru_cell.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_gru_cell.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_gru_cell.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_input.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_input.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_input.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_input.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_input.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_input.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_input.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_input.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lambda.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lambda.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lambda.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_lambda.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_lambda.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lambda.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_lambda.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lambda.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lstm_cell.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lstm_cell.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lstm_cell.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_lstm_cell.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_lstm_cell.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lstm_cell.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_lstm_cell.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_lstm_cell.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_matrix.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_matrix.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_matrix.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_matrix.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_matrix.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_matrix.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_matrix.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_matrix.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_maxpool.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_maxpool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_maxpool.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_maxpool.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_maxpool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_maxpool.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_maxpool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_maxpool.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_output.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_output.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_output.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_output.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_output.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_output.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_output.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_output.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_reshape.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_reshape.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_reshape.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_reshape.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_reshape.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_reshape.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_reshape.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_reshape.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_rnn.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_rnn.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_rnn.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_rnn.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_rnn.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_rnn.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_rnn.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_rnn.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_simple_cell.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_simple_cell.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_simple_cell.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_simple_cell.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_simple_cell.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_simple_cell.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_simple_cell.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_simple_cell.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_softmax.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_softmax.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_softmax.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_softmax.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_softmax.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_softmax.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_softmax.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_softmax.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_sumpool.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_sumpool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_sumpool.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_sumpool.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_sumpool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_sumpool.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_sumpool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_sumpool.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_upsample.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_upsample.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_upsample.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_upsample.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_upsample.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_upsample.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_upsample.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_upsample.c.s
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_zero_padding.c
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_zero_padding.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_zero_padding.c.obj -c D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_zero_padding.c
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.i"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_zero_padding.c > CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_zero_padding.c.i
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.s"
+	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\CNN\nnom-master\src\layers\nnom_zero_padding.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\CNN\nnom-master\src\layers\nnom_zero_padding.c.s
+
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/IIC.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\IIC.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\IIC.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\IIC.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.i: cmake_force
@@ -197,7 +631,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/gpio.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\gpio.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\gpio.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\gpio.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.i: cmake_force
@@ -211,7 +645,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/main.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\main.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\main.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\main.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.i: cmake_force
@@ -225,7 +659,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/spi.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\spi.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\spi.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\spi.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.i: cmake_force
@@ -239,7 +673,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/spi.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_hal_msp.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\stm32f1xx_hal_msp.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.i: cmake_force
@@ -253,7 +687,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_hal_msp.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_it.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\stm32f1xx_it.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\stm32f1xx_it.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\stm32f1xx_it.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.i: cmake_force
@@ -267,7 +701,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/stm32f1xx_it.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/syscalls.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\syscalls.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\syscalls.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\syscalls.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.i: cmake_force
@@ -281,7 +715,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/syscalls.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/sysmem.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\sysmem.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\sysmem.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\sysmem.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.i: cmake_force
@@ -295,7 +729,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/sysmem.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/system_stm32f1xx.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\system_stm32f1xx.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\system_stm32f1xx.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\system_stm32f1xx.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.i: cmake_force
@@ -309,7 +743,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/system_stm32f1xx.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/usart.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\usart.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Src\usart.c.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Src\usart.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.i: cmake_force
@@ -322,7 +756,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/usart.c.s: cmake_force
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Startup/startup_stm32f103cbtx.s.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Startup/startup_stm32f103cbtx.s.obj: D:/mz_v1/MZ_CNN_Proj/Core/Startup/startup_stm32f103cbtx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building ASM object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Startup/startup_stm32f103cbtx.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building ASM object CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Startup/startup_stm32f103cbtx.s.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\MZ_CNN_Proj.elf.dir\Core\Startup\startup_stm32f103cbtx.s.obj -c D:\mz_v1\MZ_CNN_Proj\Core\Startup\startup_stm32f103cbtx.s
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Startup/startup_stm32f103cbtx.s.i: cmake_force
@@ -336,7 +770,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Startup/startup_stm32f103cbtx.s.s: cmake_for
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.i: cmake_force
@@ -350,7 +784,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.i: cmake_force
@@ -364,7 +798,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_co
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.i: cmake_force
@@ -378,7 +812,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dm
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.i: cmake_force
@@ -392,7 +826,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ex
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.i: cmake_force
@@ -406,7 +840,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_fl
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.i: cmake_force
@@ -420,7 +854,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_fl
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.i: cmake_force
@@ -434,7 +868,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gp
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.i: cmake_force
@@ -448,7 +882,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gp
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pcd.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pcd.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pcd.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c.i: cmake_force
@@ -462,7 +896,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pc
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pcd_ex.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pcd_ex.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pcd_ex.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c.i: cmake_force
@@ -476,7 +910,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pc
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i: cmake_force
@@ -490,7 +924,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pw
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i: cmake_force
@@ -504,7 +938,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rc
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i: cmake_force
@@ -518,7 +952,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rc
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_spi.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_spi.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_spi.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.i: cmake_force
@@ -532,7 +966,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_sp
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i: cmake_force
@@ -546,7 +980,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ti
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i: cmake_force
@@ -560,7 +994,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ti
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.i: cmake_force
@@ -574,7 +1008,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ua
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj: D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c.obj -c D:\mz_v1\MZ_CNN_Proj\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.i: cmake_force
@@ -588,7 +1022,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS/MahonyAHRS.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\AHRS\MahonyAHRS.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\AHRS\MahonyAHRS.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\AHRS\MahonyAHRS.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.i: cmake_force
@@ -602,7 +1036,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/AHRS/MahonyAHRS.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\IMU_DMP\inv_mpu.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\IMU_DMP\inv_mpu.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\IMU_DMP\inv_mpu.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.i: cmake_force
@@ -616,7 +1050,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\IMU_DMP\inv_mpu_dmp_motion_driver.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\IMU_DMP\inv_mpu_dmp_motion_driver.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\IMU_DMP\inv_mpu_dmp_motion_driver.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.i: cmake_force
@@ -630,7 +1064,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c.s
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\LOG\log.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\LOG\log.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\LOG\log.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.i: cmake_force
@@ -644,7 +1078,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/LOG/log.c.s: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Class\HID\Src\usbd_hid.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Class\HID\Src\usbd_hid.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\ST\STM32_USB_Device_Library\Class\HID\Src\usbd_hid.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c.i: cmake_force
@@ -658,7 +1092,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/HID
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.i: cmake_force
@@ -672,7 +1106,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.i: cmake_force
@@ -686,7 +1120,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.i: cmake_force
@@ -700,7 +1134,7 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj: D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.c
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\VOFA\vofa.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\VOFA\vofa.c.obj -c D:\mz_v1\MZ_CNN_Proj\Middlewares\VOFA\vofa.c
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.i: cmake_force
@@ -710,440 +1144,6 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.i: cmake_force
 CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.s"
 	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Middlewares\VOFA\vofa.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Middlewares\VOFA\vofa.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\backends\nnom_local.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\backends\nnom_local.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\backends\nnom_local.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local_q15.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local_q15.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local_q15.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\backends\nnom_local_q15.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\backends\nnom_local_q15.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local_q15.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\backends\nnom_local_q15.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\backends\nnom_local_q15.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_layers.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_layers.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_layers.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_layers.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_layers.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_layers.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_layers.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_layers.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_tensor.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_tensor.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_tensor.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_tensor.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_tensor.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_tensor.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_tensor.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_tensor.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_utils.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_utils.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_utils.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_utils.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_utils.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_utils.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\core\nnom_utils.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\core\nnom_utils.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_activation.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_activation.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_activation.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_activation.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_activation.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_activation.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_activation.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_activation.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_avgpool.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_avgpool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_avgpool.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_avgpool.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_avgpool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_avgpool.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_avgpool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_avgpool.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_baselayer.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_baselayer.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_baselayer.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_baselayer.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_baselayer.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_baselayer.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_baselayer.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_baselayer.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_concat.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_concat.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_concat.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_concat.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_concat.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_concat.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_concat.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_concat.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_conv2d.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_conv2d.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_conv2d.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d_trans.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d_trans.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d_trans.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_conv2d_trans.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_conv2d_trans.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d_trans.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_conv2d_trans.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_conv2d_trans.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_cropping.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_cropping.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_cropping.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_cropping.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_cropping.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_cropping.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_cropping.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_cropping.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dense.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dense.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dense.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_dense.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_dense.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dense.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_dense.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dense.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dw_conv2d.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dw_conv2d.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dw_conv2d.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_dw_conv2d.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_dw_conv2d.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dw_conv2d.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_dw_conv2d.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_dw_conv2d.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_flatten.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_flatten.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_flatten.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_flatten.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_flatten.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_flatten.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_flatten.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_flatten.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_global_pool.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_global_pool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_global_pool.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_global_pool.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_global_pool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_global_pool.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_global_pool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_global_pool.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_gru_cell.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_gru_cell.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_gru_cell.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_gru_cell.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_gru_cell.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_gru_cell.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_gru_cell.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_gru_cell.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_input.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_input.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_input.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_input.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_input.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_input.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_input.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_input.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lambda.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lambda.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lambda.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_lambda.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_lambda.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lambda.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_lambda.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lambda.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lstm_cell.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lstm_cell.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lstm_cell.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_lstm_cell.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_lstm_cell.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lstm_cell.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_lstm_cell.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_lstm_cell.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_matrix.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_matrix.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_matrix.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_matrix.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_matrix.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_matrix.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_matrix.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_matrix.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_maxpool.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_maxpool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_maxpool.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_maxpool.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_maxpool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_maxpool.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_maxpool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_maxpool.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_output.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_output.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_output.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_output.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_output.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_output.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_output.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_output.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_reshape.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_reshape.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_reshape.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_reshape.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_reshape.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_reshape.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_reshape.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_reshape.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_rnn.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_rnn.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_rnn.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_rnn.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_rnn.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_rnn.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_rnn.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_rnn.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_simple_cell.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_simple_cell.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_simple_cell.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_simple_cell.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_simple_cell.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_simple_cell.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_simple_cell.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_simple_cell.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_softmax.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_softmax.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_softmax.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_softmax.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_softmax.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_softmax.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_softmax.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_softmax.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_sumpool.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_sumpool.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_sumpool.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_sumpool.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_sumpool.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_sumpool.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_sumpool.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_sumpool.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_upsample.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_upsample.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_upsample.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_upsample.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_upsample.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_upsample.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_upsample.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_upsample.c.s
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_zero_padding.c
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\mz_v1\MZ_CNN_Proj\cmake-build-arm_stm32\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj -MF CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_zero_padding.c.obj.d -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_zero_padding.c.obj -c D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_zero_padding.c
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.i"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_zero_padding.c > CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_zero_padding.c.i
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.s"
-	D:\CLion\gnu\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\mz_v1\MZ_CNN_Proj\Nnom_Lib\src\layers\nnom_zero_padding.c -o CMakeFiles\MZ_CNN_Proj.elf.dir\Nnom_Lib\src\layers\nnom_zero_padding.c.s
 
 CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/App/usb_device.c.obj: CMakeFiles/MZ_CNN_Proj.elf.dir/flags.make
 CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/App/usb_device.c.obj: D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usb_device.c
@@ -1197,6 +1197,37 @@ MZ_CNN_Proj_elf_OBJECTS = \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_IMU_Driver/MPU6050.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj" \
+"CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj" \
@@ -1235,37 +1266,6 @@ MZ_CNN_Proj_elf_OBJECTS = \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj" \
-"CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/App/usb_device.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/App/usbd_desc.c.obj" \
 "CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj"
@@ -1281,6 +1281,37 @@ MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_IMU_Driver/MPU6050.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj
+MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/gpio.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj
@@ -1319,37 +1350,6 @@ MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj
-MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/App/usb_device.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/App/usbd_desc.c.obj
 MZ_CNN_Proj.elf: CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/Target/usbd_conf.c.obj

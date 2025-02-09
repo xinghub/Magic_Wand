@@ -75,6 +75,37 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/BUTTON_Task/BUTTON_Task.c.obj: D:/mz_v1/
 CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj: D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task/CNN_Task.c \
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task/CNN_Task.h \
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task/IMU_Task.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/weights.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/config.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/main.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_hal_conf.h \
@@ -105,37 +136,6 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj: D:/mz_v1/MZ_CNN
   D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
   D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/weights.h \
   D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
   D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
   D:/CLion/gnu/arm-none-eabi/include/alloca.h \
@@ -619,6 +619,2239 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/BSP/BSP_LED_Driver/BSP_LED_Driver.c.obj: D:/mz_v1
   D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
   D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
 
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/backends/nnom_local_q15.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local_q15.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_layers.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_layers.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_tensor.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_utils.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_activation.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_avgpool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_avgpool.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_baselayer.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_baselayer.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_baselayer.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_concat.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_concat.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_conv2d_trans.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d_trans.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_cropping.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_cropping.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dense.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dense.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_dw_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dw_conv2d.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_flatten.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_flatten.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_global_pool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_global_pool.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_gru_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_gru_cell.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_input.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_input.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lambda.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lambda.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_lstm_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lstm_cell.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_matrix.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_matrix.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_maxpool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_maxpool.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_output.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_reshape.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_reshape.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_rnn.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_simple_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_simple_cell.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_softmax.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_softmax.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_sumpool.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_sumpool.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_upsample.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_upsample.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_zero_padding.c.obj: D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_zero_padding.c \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
+  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
+  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
+  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
+  D:/CLion/gnu/arm-none-eabi/include/math.h \
+  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
+  D:/CLion/gnu/arm-none-eabi/include/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/strings.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
+  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
 CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/IIC.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Src/IIC.c \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/IIC.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/config.h \
@@ -766,6 +2999,36 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Sr
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task/IMU_Task.h \
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.h \
   D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h \
+  D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/config.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/gpio.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/main.h \
@@ -801,36 +3064,6 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj: D:/mz_v1/MZ_CNN_Proj/Core/Sr
   D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.h \
   D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
   D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
   D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usb_device.h \
   D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target/usbd_conf.h \
   D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
@@ -2539,2239 +4772,6 @@ CMakeFiles/MZ_CNN_Proj.elf.dir/Middlewares/VOFA/vofa.c.obj: D:/mz_v1/MZ_CNN_Proj
   D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
   D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
 
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/backends/nnom_local_q15.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local_q15.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_layers.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_layers.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_tensor.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_tensor.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/core/nnom_utils.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_utils.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_activation.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_activation.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_avgpool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_avgpool.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_baselayer.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_baselayer.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_baselayer.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_concat.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_concat.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_conv2d_trans.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d_trans.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_cropping.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_cropping.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dense.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dense.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_dw_conv2d.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dw_conv2d.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_flatten.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_flatten.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_global_pool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_global_pool.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_gru_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_gru_cell.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_input.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_input.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lambda.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lambda.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_lstm_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lstm_cell.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_matrix.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_matrix.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_maxpool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_maxpool.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_output.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_output.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_reshape.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_reshape.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_rnn.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_rnn.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_simple_cell.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_simple_cell.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_softmax.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_softmax.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_sumpool.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_sumpool.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_upsample.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_upsample.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
-CMakeFiles/MZ_CNN_Proj.elf.dir/Nnom_Lib/src/layers/nnom_zero_padding.c.obj: D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_zero_padding.c \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h \
-  D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h \
-  D:/CLion/gnu/arm-none-eabi/include/_ansi.h \
-  D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h \
-  D:/CLion/gnu/arm-none-eabi/include/alloca.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_default_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/endian.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/ieeefp.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/machine/types.h \
-  D:/CLion/gnu/arm-none-eabi/include/math.h \
-  D:/CLion/gnu/arm-none-eabi/include/newlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/stdlib.h \
-  D:/CLion/gnu/arm-none-eabi/include/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/strings.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_locale.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_sigset.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_timeval.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/_types.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/config.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/features.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/lock.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/reent.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/sched.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/select.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/stdio.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/string.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h \
-  D:/CLion/gnu/arm-none-eabi/include/sys/types.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
-  D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
-
 CMakeFiles/MZ_CNN_Proj.elf.dir/USB_DEVICE/App/usb_device.c.obj: D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usb_device.c \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/main.h \
   D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_hal_conf.h \
@@ -5015,6 +5015,8 @@ D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task/BUTTON_Task.c:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h:
 
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_activation.h:
+
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h:
 
 D:/mz_v1/MZ_CNN_Proj/APP_TASK/BUTTON_Task/BUTTON_Task.h:
@@ -5028,8 +5030,6 @@ D:/mz_v1/MZ_CNN_Proj/BSP/BSP_BUTTON_Driver/BSP_BUTTON_Driver.h:
 D:/CLion/gnu/arm-none-eabi/include/sys/_types.h:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_hal_conf.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_utils.h:
 
 D:/CLion/gnu/arm-none-eabi/include/sys/reent.h:
 
@@ -5063,6 +5063,8 @@ D:/CLion/gnu/arm-none-eabi/include/alloca.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h:
 
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_zero_padding.c:
+
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h:
@@ -5081,8 +5083,6 @@ D:/CLion/gnu/arm-none-eabi/include/sys/lock.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h:
 
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_reshape.c:
-
 D:/CLion/gnu/arm-none-eabi/include/machine/time.h:
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.h:
@@ -5091,15 +5091,13 @@ D:/mz_v1/MZ_CNN_Proj/Core/Inc/spi.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h:
 
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_softmax.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_sumpool.h:
-
 D:/CLion/gnu/arm-none-eabi/include/_newlib_version.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h:
 
 D:/CLion/gnu/arm-none-eabi/include/_ansi.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_simple_cell.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h:
 
@@ -5107,9 +5105,9 @@ D:/CLion/gnu/arm-none-eabi/include/stdint.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h:
 
-D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local_q15.c:
 
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/nnom_port.h:
+D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h:
 
@@ -5139,8 +5137,6 @@ D:/CLion/gnu/arm-none-eabi/include/stdio.h:
 
 D:/CLion/gnu/arm-none-eabi/include/sys/_intsup.h:
 
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_layers.c:
-
 D:/CLion/gnu/arm-none-eabi/include/sys/_pthreadtypes.h:
 
 D:/CLion/gnu/arm-none-eabi/include/sys/_stdint.h:
@@ -5151,15 +5147,9 @@ D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c:
 
 D:/CLion/gnu/arm-none-eabi/include/sys/cdefs.h:
 
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_gru_cell.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d_trans.c:
-
 D:/CLion/gnu/arm-none-eabi/include/sys/config.h:
 
 D:/CLion/gnu/arm-none-eabi/include/sys/features.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom.c:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_hal_msp.c:
 
@@ -5175,19 +5165,17 @@ D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usb_device.c:
 
 D:/CLion/gnu/arm-none-eabi/include/sys/timespec.h:
 
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_avgpool.h:
+
 D:/CLion/gnu/arm-none-eabi/include/sys/types.h:
 
 D:/CLion/gnu/arm-none-eabi/include/time.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_upsample.h:
 
 D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h:
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS/MahonyAHRS.h:
 
 D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_local.h:
 
 D:/CLion/gnu/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h:
 
@@ -5201,71 +5189,73 @@ D:/mz_v1/MZ_CNN_Proj/APP_TASK/CNN_Task/CNN_Task.h:
 
 D:/mz_v1/MZ_CNN_Proj/APP_TASK/IMU_Task/IMU_Task.h:
 
+D:/mz_v1/MZ_CNN_Proj/CNN/weights.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_concat.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_conv2d_trans.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_cropping.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dense.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_dw_conv2d.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_flatten.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_global_pool.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_gru_cell.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_input.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lambda.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_lstm_cell.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_matrix.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_maxpool.h:
+
+D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usbd_desc.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_output.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_reshape.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_rnn.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_sumpool.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_softmax.h:
+
+D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/dmpKey.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_sumpool.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_upsample.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_zero_padding.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_layers.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_local.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_output.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_tensor.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/nnom_utils.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/port/nnom_port.h:
+
 D:/mz_v1/MZ_CNN_Proj/Core/Inc/config.h:
-
-D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_activation.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_avgpool.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_concat.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_conv2d_trans.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_cropping.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local_q15.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dense.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_dw_conv2d.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_flatten.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_global_pool.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_gru_cell.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_input.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lambda.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_zero_padding.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_lstm_cell.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_matrix.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_maxpool.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_output.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_reshape.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_rnn.h:
-
-D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/dmpmap.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_simple_cell.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_softmax.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_zero_padding.h:
-
-D:/mz_v1/MZ_CNN_Proj/Core/Src/sysmem.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom.h:
-
-D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_it.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_layers.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/nnom_tensor.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/port/weights.h:
 
 D:/CLion/gnu/arm-none-eabi/include/math.h:
 
@@ -5293,13 +5283,13 @@ D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.h:
 
 D:/CLion/gnu/arm-none-eabi/include/memory.h:
 
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/inc/layers/nnom_baselayer.h:
+
 D:/mz_v1/MZ_CNN_Proj/APP_TASK/LED_Task/LED_Task.h:
 
 D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.c:
 
 D:/mz_v1/MZ_CNN_Proj/APP_TASK/LOG_Task/LOG_Task.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_simple_cell.c:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Src/stm32f1xx_it.c:
 
@@ -5311,13 +5301,71 @@ D:/mz_v1/MZ_CNN_Proj/BSP/BSP_IMU_Driver/MPU6050.c:
 
 D:/mz_v1/MZ_CNN_Proj/BSP/BSP_LED_Driver/BSP_LED_Driver.c:
 
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/backends/nnom_local.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_layers.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_tensor.c:
+
+D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:
+
+D:/mz_v1/MZ_CNN_Proj/Core/Src/spi.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/core/nnom_utils.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_activation.c:
+
+D:/mz_v1/MZ_CNN_Proj/Core/Inc/gpio.h:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_avgpool.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_baselayer.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_concat.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_matrix.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_conv2d_trans.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_cropping.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dense.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_dw_conv2d.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_flatten.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_global_pool.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_gru_cell.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_input.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lambda.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_lstm_cell.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_maxpool.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_reshape.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_rnn.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_simple_cell.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_softmax.c:
+
+D:/mz_v1/MZ_CNN_Proj/Core/Src/usart.c:
+
+D:/mz_v1/MZ_CNN_Proj/CNN/nnom-master/src/layers/nnom_upsample.c:
+
 D:/mz_v1/MZ_CNN_Proj/Core/Src/IIC.c:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Src/gpio.c:
-
-D:/mz_v1/MZ_CNN_Proj/Core/Inc/gpio.h:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Src/main.c:
 
@@ -5327,9 +5375,7 @@ D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
 
 D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target/usbd_conf.h:
 
-D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:
-
-D:/mz_v1/MZ_CNN_Proj/Core/Src/spi.c:
+D:/mz_v1/MZ_CNN_Proj/Core/Inc/stm32f1xx_it.h:
 
 D:/mz_v1/MZ_CNN_Proj/Core/Src/syscalls.c:
 
@@ -5349,15 +5395,13 @@ D:/CLion/gnu/arm-none-eabi/include/sys/time.h:
 
 D:/CLion/gnu/arm-none-eabi/include/sys/times.h:
 
-D:/mz_v1/MZ_CNN_Proj/Core/Src/system_stm32f1xx.c:
+D:/mz_v1/MZ_CNN_Proj/Core/Src/sysmem.c:
 
-D:/mz_v1/MZ_CNN_Proj/Core/Src/usart.c:
+D:/mz_v1/MZ_CNN_Proj/Core/Src/system_stm32f1xx.c:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_baselayer.c:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c:
 
@@ -5370,8 +5414,6 @@ D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c:
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_utils.c:
 
 D:/mz_v1/MZ_CNN_Proj/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c:
 
@@ -5387,7 +5429,7 @@ D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu.c:
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/inv_mpu_dmp_motion_driver.c:
 
-D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/dmpKey.h:
+D:/mz_v1/MZ_CNN_Proj/Middlewares/IMU_DMP/dmpmap.h:
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/LOG/log.c:
 
@@ -5399,54 +5441,12 @@ D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlre
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
 
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lstm_cell.c:
+D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c:
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:
 
 D:/mz_v1/MZ_CNN_Proj/Middlewares/VOFA/vofa.c:
 
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/backends/nnom_local.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/core/nnom_tensor.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_activation.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_avgpool.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/inc/layers/nnom_baselayer.h:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_concat.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_conv2d.c:
-
 D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usbd_desc.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_cropping.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dense.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_dw_conv2d.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_flatten.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_global_pool.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_input.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_lambda.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_matrix.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_maxpool.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_sumpool.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_output.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_rnn.c:
-
-D:/mz_v1/MZ_CNN_Proj/Nnom_Lib/src/layers/nnom_upsample.c:
-
-D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/App/usbd_desc.h:
 
 D:/mz_v1/MZ_CNN_Proj/USB_DEVICE/Target/usbd_conf.c:

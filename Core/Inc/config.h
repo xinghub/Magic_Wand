@@ -20,6 +20,7 @@
 //Define system configuration
 #define SERIAL_DEBUG
 //#define SYSTEM_MODE_DATA_COLLECT
+#define PC_SHOW
 
 
 //Define ADC Module Detect

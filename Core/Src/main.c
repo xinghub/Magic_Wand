@@ -100,7 +100,7 @@ int main(void)
   Button_Create(&Button_Handle);
   CNN_Create();
 #ifdef SERIAL_DEBUG
-  log_set_level(LOG_INFO);
+  log_set_level(LOG_WARN);
   log_set_quiet(0);
 #endif
   MZprint();
@@ -127,8 +127,11 @@ int main(void)
             HAL_Delay(200);  // 使用HAL库的延迟函数
             IMU_Handle->function.IMU_Data_Print();
 #endif
-            model_get_output();
-            //IMU_Data_Print();
+#ifdef PC_SHOW
+            int8_t ret = model_get_output();
+            printf("%c\r\n", 48+ret);
+#endif
+
         }
         IMU_Handle->attribute.status = IMU_Idle;
     }
