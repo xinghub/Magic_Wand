@@ -100,7 +100,7 @@ int main(void)
   Button_Create(&Button_Handle);
   CNN_Create();
 #ifdef SERIAL_DEBUG
-  log_set_level(LOG_WARN);
+  log_set_level(3);
   log_set_quiet(0);
 #endif
   MZprint();
@@ -117,23 +117,24 @@ int main(void)
         if(IMU_Handle->attribute.status == IMU_Idle) {
             IMU_Handle->function.Sample_Start();
             //Led_Handle->function.BLINK(BLINK_5HZ);
-            Led_Handle->function.Led_OFF();
+            Led_Handle->function.Led_ON();
             while (IMU_Handle->attribute.status != IMU_Sampled);
 #ifdef SERIAL_DEBUG
             log_debug("IMU sampling\r\n");
+            Led_Handle->function.Led_OFF();
+            int8_t ret = model_get_output();
+            #ifdef PC_SHOW
+                printf("%c\r\n", 48+ret);
+            #endif
 #endif
-            Led_Handle->function.Led_ON();
+
 #ifdef SYSTEM_MODE_DATA_COLLECT
             HAL_Delay(200);  // 使用HAL库的延迟函数
             IMU_Handle->function.IMU_Data_Print();
 #endif
-#ifdef PC_SHOW
-            int8_t ret = model_get_output();
-            printf("%c\r\n", 48+ret);
-#endif
-
         }
         IMU_Handle->attribute.status = IMU_Idle;
+        HAL_Delay(800);
     }
   /* USER CODE END 3 */
 }

@@ -69,17 +69,8 @@ typedef struct IMU_t
 #endif //SYSTEM_MODE_DATA_COLLECT
 
     }function;
-    eIMU_STATUS status;
-    void (*Sample_Start)(void);
-    void (*Sample_Stop)(void);
-    float acc[IMU_SEQUENCE_LENGTH_MAX][3];
-    float gyro[IMU_SEQUENCE_LENGTH_MAX][3];
 }IMU_t;
 
-//void IMU_Get_Data(uint8_t index);
-//void IMU_Init(void);
-//void IMU_Data_Print();
-//extern struct IMU_t IMU;
 extern IMU_t *IMU_Handle;
 void IMU_create(IMU_t **imu);
 

@@ -7,7 +7,7 @@
 #include "IMU_Task.h"
 
 #ifdef NNOM_USING_STATIC_MEMORY
-uint8_t static_buf[1024 * 6];
+uint8_t static_buf[1024 * 8];
 #endif //NNOM_USING_STATIC_MEMORY
 static nnom_model_t* model;
 /*
@@ -66,25 +66,6 @@ Model_Output_t model_get_output(void)
     }
 
 #ifdef SERIAL_DEBUG
-//    printf("\033[31;40;1m it's red \033[0m");
-//    log_info("CNN recognize result:\033[40;32;1m");
-//    switch(ret){
-//        case Unrecognized:
-//            printf("%d", -1);
-//            break;
-//        case RightAngle:
-//            printf("%d", 0);
-//            break;
-//        case SharpAngle:
-//            printf("%d", 1);
-//            break;
-//        case Lightning:
-//            printf("%d", 2);
-//            break;
-//        case Triangle:
-//            printf("%d", 3);
-//            break;
-//    }
     switch(ret){
         case Unrecognized:
             printf("Unrecognized");

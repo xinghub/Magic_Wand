@@ -219,7 +219,6 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
     static uint8_t i = 0;
     if (GPIO_Pin == GPIO_PIN_5)
     {
-
         IMU_Get_Data(i);
         i++;
         if (i >= IMU_SEQUENCE_LENGTH_MAX)
@@ -228,7 +227,9 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 #ifdef SERIAL_DEBUG
             log_debug("IMU Sampled\r\n");
 #endif
+
             IMU_Handle->function.Sample_Stop();
+
         }
     }
 }

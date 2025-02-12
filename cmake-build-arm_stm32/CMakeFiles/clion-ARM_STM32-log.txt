@@ -9,6 +9,6 @@ CMake Deprecation Warning:
 
 
 -- Minimal optimization, debug info included
--- Configuring done (0.2s)
--- Generating done (0.0s)
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
 -- Build files have been written to: D:/mz_v1/MZ_CNN_Proj/cmake-build-arm_stm32

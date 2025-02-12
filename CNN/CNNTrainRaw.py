@@ -32,12 +32,11 @@ DEF_COLUMNS = (3, 4, 5)
 DEF_FILE_FORMAT = '.txt'
 # 文件名分隔符
 DEF_FILE_NAME_SEPERATOR = '_'
-DEF_BATCH_SIZE = 80 #训练时的批次大小和训练轮数
+DEF_BATCH_SIZE = 80  # 训练时的批次大小和训练轮数
 DEF_NUM_EPOCH = 80
 
 # 动作名称到标签的映射
 motion_to_label = {name: idx for idx, name in enumerate(motion_names)}
-
 
 def train(x_train, y_train, x_test, y_test, input_shape=(DEF_N_ROWS, 3), num_classes=len(motion_names),
           batch_size=DEF_BATCH_SIZE, epochs=DEF_NUM_EPOCH):
@@ -191,3 +190,27 @@ if best_model is not None:
 
     # 假设generate_model函数已经定义在nnom模块中
     generate_model(best_model, x_test_sample, format='hwc', name=DEF_MODEL_H_NAME)
+
+# 写入训练信息至weights.h
+def insert_line_at(filename, line_num, content):
+    # 将行号从1-based转换为0-based
+    line_index = line_num - 1
+
+    # 读取文件的所有行
+    with open(filename, 'r') as file:
+        lines = file.readlines()
+
+    # 确保内容以换行符结尾
+    if not content.endswith('\n'):
+        content += '\n'
+
+    # 在指定位置插入内容
+    lines.insert(line_index, content)
+
+    # 将修改后的内容写回文件
+    with open(filename, 'w') as file:
+        file.writelines(lines)
+
+
+# 示例用法：在test.h的第3行插入内容
+insert_line_at(DEF_MODEL_H_NAME, 3, '// New comment')
