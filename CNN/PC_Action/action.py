@@ -39,7 +39,7 @@ class AdvancedAnimator:
     def start_animation(self, num):
         self.clear_effects()
         anim_map = {
-            '0': self.circular_vortex,
+            '0': self.matrix_rain,
             '1': self.blooming_flower,
             '2': self.liquid_ripple,
             '3': self.rotating_tesseract,
@@ -47,7 +47,7 @@ class AdvancedAnimator:
             '5': self.particle_explosion,
             '6': self.snowfall,
             '7': self.flame_dance,
-            '8': self.matrix_rain,
+            '8': self.circular_vortex,
             '9': self.galaxy_spiral
         }
         if num in anim_map:

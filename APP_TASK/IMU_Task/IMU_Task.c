@@ -207,7 +207,7 @@ void IMU_create(IMU_t **imu)
 #ifdef SYSTEM_MODE_DATA_COLLECT
     (*imu)->function.IMU_Data_Print = IMU_Data_Print;
 #endif
-    log_info("IMU_Handle malloc succeed\r\n");
+    log_info("IMU_Handle malloc succeed %d bytes\r\n", sizeof(IMU_t));
     (*imu)->function.IMU_Init();
 }
 

@@ -23,29 +23,15 @@
   <component name="ChangeListManager">
     <list default="true" id="619e2930-70a6-4bf2-9ba4-b542574e3904" name="更改" comment="修正">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APP_TASK/CNN_Task/CNN_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/CNN_Task/CNN_Task.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_TASK/BUTTON_Task/BUTTON_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/BUTTON_Task/BUTTON_Task.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.h" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/.layer_q_list" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/.layer_q_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNNTrainRaw.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/CNNTrainRaw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_TASK/LED_Task/LED_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/LED_Task/LED_Task.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNN/PC_Action/action.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/PC_Action/action.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/nnom-master/port/nnom_port.h" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/nnom-master/port/nnom_port.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNN/weights.h" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/weights.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/config.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core/Inc/version_git.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/version_git.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/.cmake/api/v1/reply/index-2025-02-09T04-49-47-0359.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/CNN_Task/CNN_Task.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/.cmake/api/v1/reply/index-2025-02-09T05-37-56-0084.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_tensor.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/core/nnom_utils.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_activation.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_output.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/CNN/nnom-master/src/layers/nnom_rnn.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/Core/Src/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/clion-ARM_STM32-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/clion-ARM_STM32-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" afterDir="false" />
@@ -162,7 +148,9 @@
       <workItem from="1738826647457" duration="13313000" />
       <workItem from="1739003310970" duration="777000" />
       <workItem from="1739005110160" duration="11612000" />
-      <workItem from="1739269439270" duration="10308000" />
+      <workItem from="1739269439270" duration="13832000" />
+      <workItem from="1739510758259" duration="2664000" />
+      <workItem from="1739611821649" duration="7242000" />
     </task>
     <servers />
   </component>
@@ -205,6 +193,11 @@
               </option>
               <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>

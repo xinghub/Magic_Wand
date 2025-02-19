@@ -122,6 +122,6 @@ void LED_Create(LED_t **led)
     (*led)->function.Led_OFF = LED_OFF;
     (*led)->function.BLINK = Blink;
 
-    log_info("Led_Handle malloc succeed\r\n");
+    log_info("Led_Handle malloc succeed %d bytes\r\n", sizeof(LED_t));
     (*led)->function.Init();
 }

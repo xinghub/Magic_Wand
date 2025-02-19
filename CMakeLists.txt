@@ -114,4 +114,3 @@ add_custom_target(stm32f103xb_pre_build
         WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
 )
 add_dependencies(MZ_CNN_Proj.elf stm32f103xb_pre_build)
-
