@@ -1,13 +1,7 @@
 #ifndef _CONFIG_H_
 #define _CONFIG_H_
 
-// This file contains compile-time configurations for Cyberry Potter magical wand internal system.
-
-
 #include "main.h"                  // Device header
-//#include <stdio.h>
-//#include <string.h>
-//#include <stdlib.h>
 
 // Define running mode.
 // NOTE: You can change the wand into different mode by the following defines.
@@ -18,11 +12,11 @@
 //      to training motion identify model.
 
 //Define system configuration
-#define SERIAL_DEBUG
-#define PC_SHOW
-//#define SYSTEM_MODE_DATA_COLLECT
 
-
+#define SERIAL_DEBUG                  //通过输出调试信息与运行结果(Xshell或者其他上位机平台显示)
+#define PC_SHOW                       //输出运行结果至上位机脚本显示对应画面(CNN/PC_Action/action.py)
+#define SYSTEM_MODE_DATA_COLLECT      //采集动作数据(CNN/Serial_Read.py)
+#define VOFA_SHOW                       //输出至Vofa+上位机显示波形图和输入至matlab进行时域频域分析(Matlab_File/Lowpass_Show.m)
 
 //Define ADC Module Detect
 #define MODULE0_LOWER_LIM 186

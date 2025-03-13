@@ -23,19 +23,19 @@
   <component name="ChangeListManager">
     <list default="true" id="619e2930-70a6-4bf2-9ba4-b542574e3904" name="更改" comment="修正">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APP_TASK/BUTTON_Task/BUTTON_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/BUTTON_Task/BUTTON_Task.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/IMU_Task/IMU_Task.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APP_TASK/LED_Task/LED_Task.c" beforeDir="false" afterPath="$PROJECT_DIR$/APP_TASK/LED_Task/LED_Task.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/PC_Action/action.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/PC_Action/action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/model.h5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNN/weights.h" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/weights.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/config.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core/Inc/version_git.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/version_git.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/.cmake/api/v1/reply/index-2025-02-09T05-37-56-0084.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middlewares/VOFA/vofa.c" beforeDir="false" afterPath="$PROJECT_DIR$/Middlewares/VOFA/vofa.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/CMakeFiles/MZ_CNN_Proj.elf.dir/APP_TASK/LOG_Task/LOG_Task.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.elf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.hex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-arm_stm32/MZ_CNN_Proj.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/how acf85afb7df157f5c71b03e022a383309a875c10" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,26 +65,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "OpenOCD 下载并运行.OCD MZ_CNN_Proj.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "CMakeSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;OpenOCD 下载并运行.OCD MZ_CNN_Proj.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mz_v1/MZ_CNN_Proj/Middlewares/AHRS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\mz_v1\MZ_CNN_Proj\Middlewares\AHRS" />
@@ -150,7 +150,10 @@
       <workItem from="1739005110160" duration="11612000" />
       <workItem from="1739269439270" duration="13832000" />
       <workItem from="1739510758259" duration="2664000" />
-      <workItem from="1739611821649" duration="7242000" />
+      <workItem from="1739611821649" duration="9818000" />
+      <workItem from="1740273493735" duration="5712000" />
+      <workItem from="1740999455078" duration="2000" />
+      <workItem from="1741845541260" duration="4887000" />
     </task>
     <servers />
   </component>

@@ -114,31 +114,32 @@ void IMU_Get_Angle(void)
     accel_fliter_2[2] = accel_fliter_3[2];
     accel_fliter_3[2] = accel_fliter_2[2] * fliter_num[0] + accel_fliter_1[2] * fliter_num[1] + IMU_Handle->attribute.INS_Acc[2] * fliter_num[2];
 //    Vofa_Fdata_Send(accel_fliter_3,3);
-    float *q = MahonyAHRSupdateIMU(IMU_Handle->attribute.INS_Gyro[0],
-                                   IMU_Handle->attribute.INS_Gyro[1],
-                                   IMU_Handle->attribute.INS_Gyro[2],
-                                   accel_fliter_3[0],
-                                   accel_fliter_3[1],
-                                   accel_fliter_3[2]);
+//    float *q = MahonyAHRSupdateIMU(IMU_Handle->attribute.INS_Gyro[0],
+//                                   IMU_Handle->attribute.INS_Gyro[1],
+//                                   IMU_Handle->attribute.INS_Gyro[2],
+//                                   accel_fliter_3[0],
+//                                   accel_fliter_3[1],
+//                                   accel_fliter_3[2]);
 //    INS_quat[0] = q[0];
 //    INS_quat[0] = q[1];
 //    INS_quat[0] = q[2];
 //    INS_quat[0] = q[3];
-    if(NULL != q){
-        Quaternion_To_Euler(q);
-    }
+//    if(NULL != q){
+//        Quaternion_To_Euler(q);
+//    }
 
 //    Vofa_Fdata_Send(IMU.attribute.INS_Angle,3);
-//    float s[6];
-//    s[0] = accel_fliter_3[0];
-//    s[1] = accel_fliter_3[1];
-//    s[2] = accel_fliter_3[2];
-//    s[3] = IMU.attribute.INS_Acc[0];
-//    s[4] = IMU.attribute.INS_Acc[1];
-//    s[5] = IMU.attribute.INS_Acc[2];
+    float s[6];
+    s[0] = accel_fliter_3[0];
+    s[1] = accel_fliter_3[1];
+    s[2] = accel_fliter_3[2];
+    s[3] = IMU_Handle->attribute.INS_Acc[0];
+    s[4] = IMU_Handle->attribute.INS_Acc[1];
+    s[5] = IMU_Handle->attribute.INS_Acc[2];
 
-    //Vofa_Fdata_Send(s, 6);
-
+#ifdef VOFA_SHOW
+    Vofa_Fdata_Send(s, 6);
+#endif
 }
 void IMU_Get_Data(uint8_t i)
 {
@@ -169,7 +170,10 @@ void IMU_Get_Data(uint8_t i)
     IMU_Handle->attribute.INS_Gyro[1] = IMU_Handle->attribute.gyro[i][Pitch];
     IMU_Handle->attribute.INS_Gyro[2] = IMU_Handle->attribute.gyro[i][Yaw];
 
-//    IMU.function.IMU_Get_Angle();
+//    Vofa_Fdata_Send(IMU_Handle->attribute.INS_Acc,3);
+//
+    IMU_Handle->function.IMU_Get_Angle();
+
 }
 
 void IMU_Init(void)
@@ -229,7 +233,6 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 #endif
 
             IMU_Handle->function.Sample_Stop();
-
         }
     }
 }

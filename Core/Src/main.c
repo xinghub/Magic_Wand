@@ -126,6 +126,7 @@ int main(void)
             #ifdef PC_SHOW
                 printf("%c\r\n", 48+ret);
             #endif
+            HAL_Delay(800);     //按键失效，根据灯的亮灭操作
 #endif
 
 #ifdef SYSTEM_MODE_DATA_COLLECT
@@ -134,7 +135,6 @@ int main(void)
 #endif
         }
         IMU_Handle->attribute.status = IMU_Idle;
-        HAL_Delay(800);
     }
   /* USER CODE END 3 */
 }

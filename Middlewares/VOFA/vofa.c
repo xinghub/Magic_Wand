@@ -29,4 +29,5 @@ void Vofa_Fdata_Send(float *data, uint8_t ch)
         HAL_UART_Transmit(&huart1, (uint8_t*)(data+i), sizeof(float), 0xFF);
     }
     HAL_UART_Transmit(&huart1, tail, 4, 0xFF);
+
 }
